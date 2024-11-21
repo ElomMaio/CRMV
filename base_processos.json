@@ -1,0 +1,295 @@
+[   
+   {
+        "número do processo": "05/2019",
+        "denunciante": "Senhora Margarete Ferreira",
+        "estabelecimento": "Clínica Veterinária",
+        "responsável": "Méd. Vet. Thiago Heleno Tabelini de Souza",
+        "grande_area": "Medicina Veterinária",
+        "area_especifica": "Clínica Veterinária Animais Silvestres",
+        "procedimentos": "Consulta Veterinária Aplicação de Injeção Necropsia",
+        "falhas_gerais": [
+            "Não realizou exame físico adequado do animal",
+            "Falta de comunicação clara sobre o tratamento e medicação"
+        ],
+        "falhas_profissionais": [
+            "Não retirou o animal da gaiola para exame",
+            "Aplicou medicação sem avaliação completa do estado de saúde do animal"
+        ],
+        "atenuantes": [
+            "Alegação de que a manipulação poderia causar estresse ao animal"
+        ],
+        "agravantes": [],
+        "infracoes": [
+            "Art. 2o - Dever de zelar pela saúde e bem-estar dos animais",
+            "Art. 4o - Responsabilidade técnica sobre o atendimento prestado"
+        ],
+        "procedência": "improcedente",
+        "penalidade": "Nenhuma penalidade imposta ao denunciado"
+    },
+
+    {
+        "número do processo": "08/2019",
+        "denunciante": "De Ofício",
+        "estabelecimento": "Unidade Móvel de Esterilização e Educação em Saúde (UMEES)",
+        "responsável": "Méd. Vet. Dânatha Guimarães da Cunha",
+        "grande_area": "Medicina Veterinária",
+        "area_especifica": "Cirurgia Veterinária Bem-Estar Animal",
+        "procedimentos": "Esterilização Cirúrgica Anestesia",
+        "falhas_gerais": [
+            "Ausência de analgesia adequada durante os procedimentos cirúrgicos",
+            "Falta de documentação adequada para a operação da Unidade Móvel de Esterilização"
+        ],
+        "falhas_profissionais": [
+            "Responsabilidade pela administração de fármacos anestésicos sem analgesia adequada",
+            "Participação em procedimentos cirúrgicos sem garantir o bem-estar dos animais"
+        ],
+        "atenuantes": [
+            "Ausência de punição disciplinar anterior"
+        ],
+        "agravantes": [],
+        "infracoes": [
+            "Art. 1o - Exercer a profissão com zelo",
+            "Art. 4o - Usar procedimentos humanitários preservando o bem-estar animal",
+            "Art. 6o - Aprimorar continuamente seus conhecimentos",
+            "Art. 8o - Praticar ou permitir atos de crueldade para com os animais",
+            "Art. 9o - Responsabilidade pelos atos praticados na profissão"
+        ],
+        "procedência": "procedente",
+        "penalidade": "Advertência confidencial em aviso reservado e multa de R$ 90000"
+    },
+
+    {
+        "número do processo": "05/2020",
+        "denunciante": "Eliane Maria Jabour Khoury Vieira",
+        "estabelecimento": "Clínica Veterinária",
+        "responsável": "Méd. Vet. Rômulo Barbosa de Castro",
+        "grande_area": "Medicina Veterinária",
+        "area_especifica": "Clínica Veterinária Animais de Estimação Animais silvestres/exóticos? pois era um coelho, apesar de ser de estimação",
+        "procedimentos": "Consulta Domiciliar Radiografia Atendimento Veterinário",
+        "falhas_gerais": [
+            "Comunicação inadequada com a cliente",
+            "Falta de acompanhamento adequado durante os exames"
+        ],
+        "falhas_profissionais": [
+            "Não realizou exame físico direto no animal durante a consulta",
+            "Falta de acolhimento emocional à tutora do animal"
+        ],
+        "atenuantes": [
+            "Realizou acompanhamento nutricional e atendimento domiciliar"
+        ],
+        "agravantes": [
+            "animal veio a óbito durante o procedimento de raio-x"
+        ],
+        "infracoes": [
+            "Art. 2o - Dever de zelar pela saúde e bem-estar dos animais",
+            "Art. 4o - Responsabilidade técnica sobre o atendimento prestado"
+        ],
+        "procedência": "procedente",
+        "penalidade": "Nenhuma penalidade imposta ao denunciado"
+    },
+
+    {
+        "número do processo": "62/2020",
+        "denunciante": "Brunna Rudielly de Andrade Freitas",
+        "estabelecimento": "Clínica de Triagem Veterinária - CTV",
+        "responsável": "Méd. Vet. Pedro Henrique Cunha da Silveira",
+        "grande_area": "Medicina Veterinária",
+        "area_especifica": "Clínica Veterinária Ética Veterinária",
+        "procedimentos": "Atendimento Veterinário Exames Clínicos Prescrição de Medicamentos",
+        "falhas_gerais": [
+            "Atendimento inadequado por estagiária sem supervisão",
+            "Prescrição de medicamentos sem a devida autorização do veterinário responsável",
+            "Falta de entrega dos exames e prontuários ao tutor",
+            "Falta de respeito com o tutor, gritando pelo telefone"
+        ],
+        "falhas_profissionais": [
+            "Responsabilidade técnica pelo atendimento realizado na clínica",
+            "Falta de supervisão adequada sobre os atendimentos feitos por estagiários"
+        ],
+        "atenuantes": [
+            "Não estava presente durante o atendimento contestado"
+        ],
+        "agravantes": [
+            "Falta de controle sobre as atividades da estagiária"
+        ],
+        "infracoes": [
+            "Art. 2o - Dever de zelar pela saúde e bem-estar dos animais",
+            "Art. 4o - Responsabilidade técnica sobre a equipe",
+            "Art. 6o - Dever de supervisionar as atividades dos estagiários"
+        ],
+        "procedência": "improcedente",
+        "penalidade": "Nenhuma penalidade imposta ao denunciado"
+    },
+
+    {
+        "número do processo": "23/2020",
+        "denunciante": "Adilson Messias de Alvarenga",
+        "estabelecimento": "Clínica do Denunciado",
+        "responsável": "Méd. Vet. Nassif Virgílio Couto",
+        "grande_area": "Medicina Veterinária",
+        "area_especifica": "Cirurgia Veterinária",
+        "procedimentos": "Cirurgia de castração; Laparotomia exploratória",
+        "falhas_gerais": [
+            "Ambiente cirúrgico inadequado",
+            "Falta de exames laboratoriais pré-operatórios",
+            "Inobservância das normas de assepsia",
+            "Inadequação do CME",
+            "Negligência, imprudência e imperícia"
+        ],
+        "falhas_profissionais": [
+            "Não conseguiu realizar a ooforectomia devido à proximidade anatômica dos ovários",
+            "Negligência ao não realizar exames laboratoriais",
+            "Falta de habilidade cirúrgica"
+        ],
+        "atenuantes": [
+            "Ausência de punição disciplinar anterior"
+        ],
+        "agravantes": [
+            "o estabelecimento não possui registro no CRMV-MG, não possui PGRSS, não possui Livro para escrituração e movimentação de Drogas Controladas, não possui Alvará Sanitário, sendo ainda orientado a regularizar a situação cadastral de seu CNPJ"
+        ],
+        "infracoes": [
+            "Art. 1o - Exercer a profissão com o máximo de zelo e o melhor de sua capacidade.",
+            "Art. 3o - Empenhar-se para melhorar as condições de bem-estar saúde animal.",
+            "Art. 6o - I VI X - Deveres do médico-veterinário.",
+            "Art. 8o - XIX - Atender em locais que estejam em desacordo com a legislação.",
+            "Art. 9o - I - Praticar atos profissionais que caracterizem imperícia ou negligência."
+        ],
+        "procedência": "procedente",
+        "penalidade": "Advertência confidencial e multa de R$ 900,00"
+    },
+
+    {
+        "número do processo": "02/2021",
+        "denunciante": "Méd. Vet. Eliana Xavier Goepfert",
+        "estabelecimento": "CRMV-MG",
+        "responsável": "",
+        "grande_area": "Medicina Veterinária",
+        "area_especifica": "Homeopatia Veterinária",
+        "procedimentos": "Comentários em redes sociais sobre homeopatia",
+        "falhas_gerais": [],
+        "falhas_profissionais": [],
+        "atenuantes": [],
+        "agravantes": [],
+        "infracoes": [],
+        "procedência": "improcedente",
+        "penalidade": "Nenhuma penalidade aplicada"
+    }
+,
+    {
+        "número do processo": "25/2021",
+        "denunciante": "De Ofício adicionar o encaminhamento? Coordenador da Vigilância Sanitária da Secretaria Municipal de Saúde de Leopoldina/MG",
+        "estabelecimento": "Clínica Veterinária da Denunciada",
+        "responsável": "Méd. Vet. Viviane Garcia Botelho Junqueira",
+        "grande_area": "Medicina Veterinária",
+        "area_especifica": "Vigilância Sanitária Ética Veterinária",
+        "procedimentos": "Fiscalização sanitária Inspeção de clínica veterinária",
+        "falhas_gerais": [
+            "Infiltrações no teto do laboratório",
+            "Ausência de lavatório para higienização das mãos",
+            "Geladeiras sem termômetro de mínima e máxima",
+            "Medicamentos vencidos armazenados",
+            "Reaproveitamento de seringas",
+            "Falta de documentação de biossegurança"
+        ],
+        "falhas_profissionais": [
+            "Inadequações estruturais na clínica",
+            "Descontrole no armazenamento de medicamentos",
+            "Falta de registro de vacinação dos funcionários",
+            "Reaproveitamento de materiais descartáveis"
+        ],
+        "atenuantes": [
+            "Ausência de punição disciplinar anterior"
+        ],
+        "agravantes": [
+            "Reutilização de seringas",
+            "Uso de medicamentos vencidos"
+        ],
+        "infracoes": [
+            "Art. 1o - Exercer a profissão com o máximo de zelo.",
+            "Art. 3o - Empenhar-se para melhorar as condições de bem-estar e saúde.",
+            "Art. 6o - Deveres do médico veterinário.",
+            "Art. 8o - Vedação de práticas em desacordo com a legislação.",
+            "Art. 9o - Responsabilidade pelos atos profissionais."
+        ],
+        "procedência": "procedente",
+        "penalidade": "Advertência confidencial e multa de R$ 900,00"
+    },
+
+    {
+        "número do processo": "28/2021",
+        "denunciante": "Claudionora Oliveira Alves Nascimento",
+        "estabelecimento": "Empório Agro Cipó Agropecuária e Pet Shop",
+        "responsável": "Méd. Vet. Darlan Marcos Araújo Santos",
+        "grande_area": "Medicina Veterinária",
+        "area_especifica": "Cirurgia Veterinária Ética Veterinária",
+        "procedimentos": "Ovariosalpingohisterectomia (OSH) Mutirão de castração",
+        "falhas_gerais": [
+            "Não realização de exames pré-operatórios",
+            "Anestesia inadequada para o quadro clínico do animal",
+            "Entrega do animal ainda desacordado",
+            "Ambiente inadequado para cirurgia",
+            "Falta de termo de risco cirúrgico assinado"
+        ],
+        "falhas_profissionais": [
+            "Negligência na entrega do animal após a cirurgia",
+            "Falta de cuidado pós-operatório adequado → negou socorro",
+            "Não solicitação de exames pré-operatórios",
+            "Não pesou o animal",
+            "Ambiente cirúrgico inadequado",
+            "Não paramentação",
+            "Sem termo de risco cirúrgico (resolução 1321)"
+        ],
+        "atenuantes": [
+            "Ausência de punição disciplinar anterior"
+        ],
+        "agravantes": [
+            "Não observância das normas de anestesia",
+            "Procedimento realizado em local improvisado"
+        ],
+        "infracoes": [
+            "Art. 1o - Exercer a profissão com o máximo de zelo.",
+            "Art. 4o - Usar procedimentos humanitários preservando o bem-estar animal.",
+            "Art. 6o - Deveres do médico-veterinário.",
+            "Art. 8o - Realizar procedimento em desacordo com a legislação.",
+            "Art. 9o - Responsabilidade profissional e atos sem consentimento formal."
+        ],
+        "procedência": "procedente",
+        "penalidade": "Advertência confidencial e multa de R$ 900,00"
+    },
+
+    {
+        "número do processo": "29/2021",
+        "denunciante": "Lílian Marques da Silva e Rafael Fernando do Carmo Cassimiro",
+        "estabelecimento": "Clínica Dra. Pety",
+        "responsável": "Méd. Vet. Thamiris Cristinne Rabelo Correa",
+        "grande_area": "Medicina Veterinária",
+        "area_especifica": "Obstetrícia Veterinária Ética Veterinária",
+        "procedimentos": "Ultrassonografia Cesariana",
+        "falhas_gerais": [
+            "Não elaboração de prontuário médico adequado",
+            "Falta de entrega de documentos de prontuário e laudos",
+            "Orientações inadequadas aos tutores sobre o estado da cadela"
+        ],
+        "falhas_profissionais": [
+            "Negligência na observação e avaliação do estado fetal",
+            "Realização de cesariana sem evidências adequadas",
+            "Alteração de prontuário médico"
+        ],
+        "atenuantes": [
+            "Ausência de punição disciplinar anterior"
+        ],
+        "agravantes": [
+            "Negligência nas orientações prestadas",
+            "Alteração de prontuário médico"
+        ],
+        "infracoes": [
+            "Art. 2o - Dever de zelar pela saúde e bem-estar dos animais.",
+            "Art. 4o - Usar procedimentos humanitários preservando o bem-estar animal.",
+            "Art. 6o - Deveres do médico-veterinário.",
+            "Art. 8o - Alterar ou falsificar documentos relacionados à atividade profissional.",
+            "Art. 9o - Responsabilidade pelos atos praticados."
+        ],
+        "procedência": "procedente",
+        "penalidade": "Advertência confidencial e multa de R$ 900,00"
+    }
+]
