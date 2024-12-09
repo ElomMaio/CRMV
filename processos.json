@@ -1,478 +1,1839 @@
 [
-  {
-    "Numero_processo_etico": "51/2022",
-    "Denunciante": "Sr. Ernany César Soares",
-    "Motivacao_da_denuncia": "O Denunciante proprietário de um canil, vendeu uma fêmea de Buldogue Francês para o Sr. Breno Fonseca Matos e a Denunciada atendeu o animal em razão de suposto prolapso retal e hermafroditismo. A Denunciada emitiu um laudo com informações que o denunciante alega como difamatórias e que causaram danos morais e financeiros ao seu estabelecimento.",
-    "Categoria": ["Clínica", "Difamação"], 
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-
-    "Tipo_de_procedimento": [
-      "Atendimento clínico",
-      "Cirurgia de redução de edema",
-      "Exame de imagem",
-      "Terapêutica"
-    ],
-    "Documentos_elaborados": [
-      "Termo de registro de atendimento",
-      "Laudo médico-veterinário"
-    ],
-    "Falha_profissional":  ["Emissão de laudo com informações difamatórias sem comprovação diagnóstica adequada"],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 3",
-      "Art. 6 - I, V",
-      "Art. 8 - XXVI",
-      "Art. 10 - VI"
-    ],
-    "Procedencia_mantida": true
-  },
-  {
-    "Numero_processo_etico": "40/2022",
-    "Denunciante": "Gabriela Azevedo Araújo e Gustavo Felipe de Souza Porto",
-    "Motivacao_da_denuncia": "Alegação de negligência da denunciada no procedimento de castração de um canino da raça Shih-tzu, chamado Tom, que veio a óbito durante a cirurgia",
-    "Categoria": ["Cirurgia"],
-
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-    "Tipo_de_procedimento": [
-      "Castração"
-    ],
-    "Documentos_elaborados": [
-      "Boletim de Ocorrência",
-      "Relatório Médico Veterinário (emitido após 6 horas do ocorrido)"
-    ],
-    "Falha_profissional":  [
-      "Recusa em emitir laudo técnico atestando a causa mortis",
-      "Informações incompletas sobre os riscos do procedimento, principalmente em relação à condição de braquicefalia do animal",
-      "Ausência de termo de responsabilidade ou autorização assinado pelos tutores assumindo os riscos da cirurgia",
-      "Falta de humanidade e empatia em exigir a retirada imediata do corpo do animal",
-      "Condições inadequadas do estabelecimento, como objetos não esterilizados, piso sujo, paredes que não permitem a devida assepsia e sala de cirurgia inadequada"
-    ],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 3",
-      "Art. 6",
-      "Art. 9 - I",
-      "Art. 17"
-         ],
-    "Procedencia_mantida": true
-  },
-  {
-    "Numero_processo_etico": "37/2020",
-    "Denunciante": "Méd. Vet. Helbert Furbino Vaz - CRMV-MG n° 21332",
-    "Motivacao_da_denuncia": "Utilização de medicamentos vencidos no Hospital Veterinário do Zoológico, do qual o Denunciado é Responsável Técnico",
-    "Categoria": ["Medicamentos"],
-    "Tipo_de_animal": [
-      "Não se aplica"
-    ],
-    "Tipo_de_procedimento": [
-      "Anestesia",
-      "Terapêutica"
-    ],
-    "Documentos_elaborados": [
-     "Não foram elaborados documentos"
-    ],
-    "Falha_profissional":  ["Uso de medicamentos vencidos, incluindo anestésicos, em animais do Zoológico"],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 5",
-      "Art. 6 - XV, XVI",
-      "Art. 19 - III"
-    ],
-    "Procedencia_mantida": true
-  },
-  {
-    "Numero_processo_etico": "32/2019",
-    "Denunciante": "De Ofício",
-    "Motivacao_da_denuncia": "Emissão de Atestado de Saúde irregular para emissão de Certificado Veterinário Internacional (CVI)",
-    "Categoria": ["Emissão de Documentos"],
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-    "Tipo_de_procedimento": [
-      "Certificado Veterinário Internacional (CVI)"
-    ],
-    "Documentos_elaborados": [
-      "Termo de Depoimento do Denunciado"
-    ],
-    "Falha_profissional":  ["Emissão de Atestado de Saúde com prazo de validade incorreto (60 dias ao invés de 10 dias, conforme normas do MAPA)"],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 6 - I",
-      "Art. 6 - II",
-      "Art. 8 - V",
-      "Art. 8 - XXI",
-      "Art. 9 - I - b",
-      "Art. 9 - I - c",
-      "Art. 9 - V",
-      "Art. 17 - I"
-    ],
-    "Procedencia_mantida": true
-  },
-  {
-    "Numero_processo_etico": "30/2022",
-    "Denunciante": "Sra. Emanuela Santos Souza",
-    "Motivacao_da_denuncia": "Realização de ovariosalpingohisterectomia (OSH) em cadela da raça Pitbull com posteriores complicações e óbito do animal",
-    "Categoria": ["Cirurgia"],
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-    "Tipo_de_procedimento": [
-      "Castração",
-      "Laparotomia exploratória",
-      "Exame de imagem"
-          ],
-    "Documentos_elaborados": [
-      "Não foram elaborados documentos"
-    ],
-    "Falha_profissional":  ["Alegação de possíveis falhas no procedimento cirúrgico de OSH e no acompanhamento pós-operatório da cadela"],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 3",
-      "Art. 6 - I",
-      "Art. 6 - X",
-      "Art. 6 - XI",
-      "Art. 9 incisos I (a, b, c) e VII",
-      "Art. 17"
-    ],
-    "Procedencia_mantida": true
-  },
-  {
-    "Numero_processo_etico": "29/2021",
-    "Denunciante": "Lílian Marques da Silva e Rafael Fernando do Carmo Cassimiro",
-    "Motivacao_da_denuncia": "Realização de procedimentos cirúrgicos em uma cadela da raça Golden Retriever que resultou na morte dos filhotes e complicações pós-operatórias",
-    "Categoria": ["Cirurgia"],
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-    "Tipo_de_procedimento": [
-      "Cesariana",
-      "Castração"
-    ],
-    "Documentos_elaborados": [
-      "Termo de responsabilidade"
-    ],
-    "Falha_profissional":  ["Suposto esquecimento de filhote durante a cesariana e falta de entrega de documentos como prontuário e laudo médico"],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 6 - I",
-      "Art. 8 - IX",
-      "Art. 9 - V"
-    ],
-    "Procedencia_mantida": true
-  },
-  {
-    "Numero_processo_etico": "28/2021",
-    "Denunciante": "Claudionora Oliveira Alves Nascimento",
-    "Motivacao_da_denuncia": "Óbito de animal (cadela da raça Shitzu) após procedimento cirúrgico de ovariosalpingohisterectomia realizado durante campanha de castração",
-    "Categoria": ["Cirurgia"],
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-    "Tipo_de_procedimento": [
-      "Multirão de castração"
-    ],
-    "Documentos_elaborados": [
-      "Boletim de Ocorrência",
-      "Relatório de necrópsia"
-    ],
-    "Falha_profissional":  [
-      "Não realização de exames pré-operatórios",
-      "Protocolo anestésico inadequado para paciente com piometra",
-      "Liberação do animal ainda desacordado e com a língua para fora"
-    ],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 4",
-      "Art. 6 - I, X",
-      "Art. 8",
-      "Art. 9 - I"
-    ],
-    "Procedencia_mantida": true
-  },
     {
-    "Numero_processo_etico": "25/2021",
-    "Denunciante": "De Ofício",
-    "Motivacao_da_denuncia": "Irregularidades constatadas durante fiscalização da Vigilância Sanitária na clínica veterinária onde a Dra. Viviane Garcia Botelho Junqueira atua como Responsável Técnica",
-    "Categoria": ["Fiscalização do estabelecimento","Medicamento"],
-    "Tipo_de_animal": [
-      "Caninos",
-      "Felinos"
-    ],
-    "Tipo_de_procedimento": [
-      "Fiscalização de clínica veterinária",
-      "Inspeção de clínica veterinária",
-      "Vistoria"
-    ],
-    "Documentos_elaborados": [
-      "Termo de Interdição"
-    ],
-    "Falha_profissional":  [
-      "Presença de infiltrações no teto do laboratório",
-      "Ausência de lavatório para higienização das mãos",
-      "Área de esterilização de materiais e geladeiras sem termômetro de mínima e máxima",
-      "Seringas vazias sendo reaproveitadas",
-      "Lâminas de bisturi enferrujadas espalhadas no laboratório",
-      "Apenas um recipiente rígido para descarte de perfurocortantes no chão e sem uso",
-      "Medicamentos de uso humano/veterinário com validade expirada",
-      "Ração acondicionada no chão junto com materiais de construção",
-      "Ausência de registros de limpeza da caixa-d'água, medidas preventivas e corretivas de controle de vetores e pragas, registros de limpeza e sanitização, laudo radiométrico e teste de constância do aparelho de raio-x, PGRSS e documentação indicativa sobre o nível de biossegurança",
-      "Divergência entre as anotações no livro de registro para medicamentos especiais e o estoque real",
-      "Ausência de registro de vacinação e documentos que registrassem a especialidade de cada profissional e individualizassem as funções por especialidade"
-    ],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 3",
-      "Art. 6 - IV",
-      "Art. 8 - XIX, XXIII",
-      "Art. 9 - I - b"
-    ],
-    "Procedencia_mantida": true
-  },
-  {
-    "Numero_processo_etico": "25/2020",
-    "Denunciante": "De Ofício",
-    "Motivacao_da_denuncia": "Funcionamento irregular de Clínica Veterinária; Permissão de falso médico veterinário atuar em estabelecimento onde o Denunciado era Responsável Técnico; Preenchimento irregular de documentos; Identificação de medicamentos de uso controlado no estabelecimento de forma irregular.",
-    "Categoria": ["Fiscalização do estabelecimento","Exercício irregular"],
-    "Tipo_de_animal": [
-      "Caninos",
-      "Felinos"
-    ],
-    "Tipo_de_procedimento": [
-      "Fiscalização do estabelecimento",
-      "Exercício ilegal da Medicina Veterinária"
-    ],
-    "Documentos_elaborados": [
-      "Termo de Fiscalização n° 048864",
-      "Check List baseado na Resolução 1275/2019/CFMV"
-    ],
-    "Falha_profissional":  [
-      "Funcionamento irregular da Clínica Veterinária",
-      "Permissão de falso médico veterinário atuar em estabelecimento onde o Denunciado era Responsável Técnico",
-      "Preenchimento irregular de documentos",
-      "Identificação de medicamentos de uso controlado no estabelecimento de forma irregular"
-    ],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 3",
-      "Art. 6 - XV",
-      "Art. 8 - III, XIX",
-      "Art. 9 - I - b,c - V,",
-      "Art. 17 - I"
-    ],
-    "Procedencia_mantida": true
-  },
-    {
-    "Numero_processo_etico": "19/2019",
-    "Denunciante": "De Ofício",
-    "Motivacao_da_denuncia": "Não prescrição do medicamento Milteforan para o tratamento de leishmaniose em um cão",
-    "Categoria": ["Terapêutica"],
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-    "Tipo_de_procedimento": [
-      "Prescrição de medicamentos"
-    ],
-    "Documentos_elaborados": [
-      "Receita médica veterinária"
-    ],
-    "Falha_profissional":  [
-      "Não prescrição do medicamento Milteforan, conforme exigido pela Nota Técnica conjunta nº 001/2016 MAPA/MS, para o tratamento de leishmaniose canina"
-    ],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 3",
-      "Art. 6, inciso VII",
-      "Art. 6, inciso X",
-      "Art. 8, inciso I",
-      "Art. 8, inciso V",
-      "Art. 8, inciso IX",
-      "Art. 8, inciso XXIII-a",
-      "Art. 8, inciso XXXII",
-      "Art. 9, inciso I",
-      "Art. 9, inciso V"
-    ],
-    "Procedencia_mantida": true
-  },
-  {
-    "Numero_processo_etico": "18/2020",
-    "Denunciante": "Patrícia Liriam Viana Garcia",
-    "Motivacao_da_denuncia": "Atendimento e tratamento inadequados da cadela Sol, que veio a óbito",
-    "Categoria": ["Atendimento clínico, Cirurgia, Anestesia, Terapêutica"],
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-    "Tipo_de_procedimento": [
-      "Atendimento clínico",
-      "Cirurgia de castração",
-      "Anestesia",
-      "Tratamento de tártaro"
-    ],
-    "Documentos_elaborados": [
-      "Não foi mencionado"
-    ],
-    "Falha_profissional":  ["Atendimento e procedimentos realizados em local inadequado, sem estrutura e sem acompanhamento do estado clínico do paciente, levando ao óbito da cadela"],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 8, inciso XIX",
-      "Art. 9, incisos I (a, b, c), VII"
-    ],
-    "Procedencia_mantida": true
-  },
-  
-  {
-    "Numero_processo_etico": "08/2019",
-    "Denunciante": "De Ofício",
-    "Motivacao_da_denuncia": "Prática de maus-tratos contra cães e gatos esterilizados em campanha realizada pelo município de Bambuí",
-    "Categoria": ["Cirurgia"],
-    "Tipo_de_animal": [
-      "Caninos",
-      "Felinos"
-    ],
-    "Tipo_de_procedimento": [
-      "Castração"
-    ],
-    "Documentos_elaborados": [
-      "Termo de Compromisso Positivo (TCP)"
-    ],
-    "Falha_profissional":  ["Ausência de analgesia adequada durante a realização dos procedimentos cirúrgicos de esterilização"],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 6",
-      "Art. 8",
-      "Art. 9",
-      "Art. 11"
-    ],
-    "Procedencia_mantida": true
-  },
-  {
-    "Numero_processo_etico": "05/2020",
-    "Denunciante": "Eliane Maria Jabour khoury Vieira",
-    "Motivacao_da_denuncia": "O denunciado atendeu o coelho Mego da denunciante e após realizar exames radiográficos, o animal veio a óbito.",
-    "Categoria": ["Cirurgia"],
-    "Tipo_de_animal": [
-      "Coelho"
-    ],
-    "Tipo_de_procedimento": [
-      "Exame de imagem",
-      "Radiografia"
-    ],
-    "Documentos_elaborados": [
-      "Termo de realização de exame radiográfico"
-    ],
-    "Falha_profissional":  ["Não ter comunicado previamente a gravidade do caso e/ou dado a opção de escolher a continuidade dos exames."],
-    "Procedencia": false,
-    "Artigos_infringidos": [
-      "Art. 5",
-      "Art. 6"
-    ],
-    "Procedencia_mantida": false
-  },
-  {
-    "Numero_processo_etico": "26/2019",
-    "Denunciante": "Danyelle Loyola Oliveira",
-    "Motivacao_da_denuncia": "Denúncia contra procedimentos cirúrgicos realizados pelo médico veterinário Lucas Mendes Freitas em sua cadela Filomena, da raça Bull Dogue Francês, para correção de prolapso de terceira pálpebra",
-    "Categoria": ["Cirurgia"],
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-    "Tipo_de_procedimento": [
-      "Cirurgia de castração",
-      "Cirurgia para correção de prolapso de terceira pálpebra"
-    ],
-    "Documentos_elaborados": [
-      "Termo de Consentimento"
-    ],
-    "Falha_profissional":  ["Utilização de técnicas cirúrgicas inadequadas que levaram a complicações no pós-operatório, como úlcera de córnea profunda bilateral"],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 3",
-      "Art. 9 incisos I (a, b, c)"
-    ],
-    "Procedencia_mantida": true
-  },
- 
-  {
-    "Numero_processo_etico": "23/2020",
-    "Denunciante": "Adilson Messias de Alvarenga",
-    "Motivacao_da_denuncia": "Complicações em cirurgia de castração",
-    "Categoria": ["Cirurgia"],
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-    "Tipo_de_procedimento": [
-      "Castração"
-    ],
-    "Documentos_elaborados": [
-      "Não foram elaborados documentos"
-    ],
-    "Falha_profissional":  [
-      "Ausência de realização de exames laboratoriais pré-operatórios",
-      "Não informar ao cliente sobre o risco de realizar o procedimento sem exames",
-      "Dificuldade na realização da cirurgia de castração"
-    ],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 1",
-      "Art. 3",
-      "Art. 6 - I, VI, X",
-      "Art. 8 - XIX",
-      "Art. 9 - I, a, c"
-
-    ],
-    "Procedencia_mantida": true
-  },
-  
-  {
-    "Numero_processo_etico": "13/2020",
-    "Denunciante": "Ilídio Antônio dos Santos",
-    "Motivacao_da_denuncia": "O Denunciante afirma que o Denunciado afirmou que o animal foi alvejado com 4 tiros, quando na verdade foi atingido com apenas 1 tiro",
-    "Categoria": ["Atendimento clínico"],
-    "Tipo_de_animal": [
-      "Caninos"
-    ],
-    "Tipo_de_procedimento": [
-      "Atendimento clínico",
-      "Laparotomia exploratória",
-      "Cirurgias"
-    ],
-    "Documentos_elaborados": [
-      "Boletim de Ocorrência"
-    ],
-    "Falha_profissional":  ["O Denunciado afirmou incorretamente o número de tiros que atingiram o animal em seu laudo"],
-    "Procedencia": true,
-    "Artigos_infringidos": [
-      "Art. 16",
-      "Art. 21",
-      "Art. 22"
-    ],
-    "Procedencia_mantida": true
-  },
-    
-  {
-    "Numero_processo_etico": "03/2021",
-    "Denunciante": "Célio Tadeu Barberato",
-    "Motivacao_da_denuncia": "Realização de mastectomia unilateral e castração na cadela Princesa, com problemas no pós-operatório e omissão da médica veterinária no atendimento",
-    "Categoria": ["Cirurgia"],
-    "Tipo_de_animal": ["Caninos"],
-    "Tipo_de_procedimento": ["Castração", "Cirurgia"],
-    "Documentos_elaborados": ["Termo de Internação"],
-    "Falha_profissional":  ["Omissão no atendimento do pós-operatório, não informar endereço da clínica, não apresentar exames pré-cirúrgicos que comprovassem aptidão do animal"],
-    "Procedencia": true,
-    "Artigos_infringidos": ["Art. 5", "Art. 8", "Art. 10"],
-    "Procedencia_mantida": true
-    }
+        "Numero_processo_etico": "30/2022",
+        "Denunciante": "Sra. Emanuela Santos Souza",
+        "Motivacao_da_denuncia": "Possíveis irregularidades no procedimento de ovariosalpingohisterectomia (OSH) realizado na cadela Hanna na Clínica Amigo dos Animais, resultando no óbito do animal",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "Laparotomia exploratória", "Ultrassom"],
+        "Documentos_elaborados": ["Termo de Reclamação", "Termo de Depoimento"],
+        "Falha_profissional": "Realização de procedimento cirúrgico (OSH) sem exames pré-operatórios adequados, seguido de complicações no pós-operatório que levaram ao óbito do animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 9", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "37/2020",
+        "Denunciante": "Méd. Vet. Helbert Furbino Vaz – CRMV-MG n° 21332",
+        "Motivacao_da_denuncia": "Uso de medicamentos vencidos no Hospital Veterinário do Zoológico, do qual o Denunciado é Responsável Técnico",
+        "Categoria": "Terapêutica",
+        "Tipo_de_animal": ["Animais silvestres ou exóticos"],
+        "Tipo_de_procedimento": [
+        "Anestesia",
+        "Tratamento de medicamentos"
+        ],
+        "Documentos_elaborados": [
+        "Termo de Oitiva do Denunciante",
+        "Termo de Oitiva do Denunciado",
+        "Termo de Oitiva das Testemunhas"
+        ],
+        "Falha_profissional": "Utilização de medicamentos vencidos, incluindo anestésicos, no tratamento de animais silvestres do Zoológico",
+        "Procedencia": true,
+        "Artigos_infringidos": [
+        "Art. 5",
+        "Art. 6 - XV, XVI",
+        "Art. 19 - III"
+        ],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "37/2023",
+        "Denunciante": "Sra. Aline Vianello Tavares",
+        "Motivacao_da_denuncia": "Procedimentos que podem caracterizar infrações ao Código de Ética do Médico Veterinário pelo Denunciado",
+        "Categoria": "Cirurgia, Clínica, Tratamento de tártaro",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia de mandíbula", "Debridamento de feridas", "Avaliação radiográfica", "Atendimento clínico"],
+        "Documentos_elaborados": ["Radiografia", "Biópsia"],
+        "Falha_profissional": "Diagnóstico equivocado de farmacodermia, omissão em verificar a extensão das feridas, negligência no tratamento da dor e acompanhamento pós-operatório",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°", "Art. 6°", "Art. 7°", "Art. 8°", "Art. 10", "Art. 11"],
+        "Procedencia_mantida": true
+            },
+        {
+        "Numero_processo_etico": "36/2023",
+        "Denunciante": "Sra. Aline Vianello Tavares",
+        "Motivacao_da_denuncia": "O animal Floquinho, cão da raça Shih-Tzu, sofreu uma queda da cama da denunciante no domingo, dia 24/07/2022, e foi levado para a Vet4Pet Veterinária Avançada com suspeita de lesão na face. No local, o animal foi atendido e realizada uma radiografia que apontou duas fraturas na mandíbula, mas mesmo se denominando Clínica 24 horas, deixaram o animal sem atendimento até o dia seguinte.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia de castração", "Laparotomia exploratória", "Anestesia", "Terapêutica"],
+        "Documentos_elaborados": ["Radiografia", "Exame de cultura", "Biópsia"],
+        "Falha_profissional": ["Negligência no atendimento, Erro no diagnóstico e tratamento, Imperícia no procedimento cirúrgico"],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 4°", "Art. 6°", "Art. 12", "Art. 14"],
+        "Procedencia_mantida": true
+        },
+      
+        {
+        "Numero_processo_etico": "72/2023",
+        "Denunciante": "Ofício",
+        "Motivacao_da_denuncia": "O CRMV-MG recebeu denúncias sobre a Denunciada estar promovendo publicidades irregulares em suas redes sociais, com conteúdo de comerciais e ofertas em consultas e serviços veterinários na Clínica Veterinária SOS Animal, incluindo datas comerciais como Carnaval, Dia das Mães e Black Friday, com descontos de 50% em consultas [1]",
+        "Categoria": "Publicidade",
+        "Tipo_de_animal": [],
+        "Tipo_de_procedimento": ["Consultas", "Serviços veterinários"],
+        "Documentos_elaborados": ["Notificação da Fiscalização sobre as irregularidades"],
+        "Falha_profissional": "Divulgação de publicidades com ofertas e descontos em consultas e serviços veterinários, em datas comerciais, de forma irregular e contrária ao Código de Ética [1]",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5º", "Art. 6º - II", "Art. 8º - VIII", "Art. 14º", "Art. 15º"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "13/2023",
+        "Denunciante": "Sra. Camila Henriques Ferreira Carvalho",
+        "Motivacao_da_denuncia": "A Denunciante apresentou Denúncia a este CRMV-MG contra o Denunciado, registrando que no dia 08/09/2022, a cadela Amora, da raça Golden Retriever, sofreu um acidente doméstico e teve a ponta da cauda lacerada, sendo encaminhada para o Hospital Veterinário Popular de Ipatinga. A Denunciante alega que não foi informada que o animal teria a cauda amputada totalmente, sem seu consentimento, além de sangramento intenso.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Caudectomia (Amputação da cauda)"],
+        "Documentos_elaborados": ["Termo de autorização anestésica e caudectomia", "Boletim de Ocorrência"],
+        "Falha_profissional": "Falta de consentimento informado da tutora sobre a amputação total da cauda do animal.",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "23/2022",
+        "Denunciante": "Sra. Martha Veloso Colen",
+        "Motivacao_da_denuncia": "Procedimento cirúrgico após proptose do olho de um cão Shih-Tzu",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Reposicionamento do globo ocular", "Cirurgias"],
+        "Documentos_elaborados": ["Receita médica"],
+        "Falha_profissional": "Alegação de demora no procedimento cirúrgico, ausência de limpeza adequada do olho e falta de prescrição de antibiótico sistêmico",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "21/2022",
+        "Denunciante": "Sra. Martha Veloso Colen",
+        "Motivacao_da_denuncia": "Procedimento cirúrgico para reposicionamento de olho de cão que sofreu proptose.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia de castração", "Atendimento clínico"],
+        "Documentos_elaborados": ["Prontuário cirúrgico", "Resumo de internação"],
+        "Falha_profissional": "Atraso na realização do procedimento cirúrgico de reposicionamento do olho do animal.",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "44/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "O CRMV-MG recebeu laudo do Ministério Público de MG para análise de possível violação ética no exercício da medicina veterinária. O laudo foi elaborado pela Médica Veterinária Mariana Santana Santos Brito – CRMV-MG no 15044, da Coordenadoria Estadual de Defesa da Fauna do Ministério Público do Estado de Minas Gerais – MPMG, realizado no Ministério Arca de Noé – Proteção Animal após vistoria realizada no dia 14 de julho de 2021 para apurar 'possíveis maus tratos e acolhimento de animais sem condições de higiene e sem responsável técnico', bem como as condições de bem-estar dos animais no estabelecimento.",
+        "Categoria": "Clínica, Fiscalização do estabelecimento",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Castração", "Exame de imagem", "Atendimento clínico", "Emergência"],
+        "Documentos_elaborados": ["Laudo do Ministério Público"],
+        "Falha_profissional": "O estabelecimento funcionava de maneira irregular, com ausência de registro no CRMV-MG e alvará sanitário, além de possuir irregularidades estruturais e no armazenamento de medicamentos e materiais perfurocortantes.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 16", "Art. 20"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "44/2020",
+        "Denunciante": "Thiago Fernandes Tiburcio e Gabriela Fernandes Tiburcio",
+        "Motivacao_da_denuncia": "Procedimentos que podem caracterizar infrações ao Código de Ética do Médico Veterinário pelo ora Denunciado",
+        "Categoria": "Atendimento clínico, Anestesia, Emergência",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Anestesia", "Atendimento clínico", "Emergência"],
+        "Documentos_elaborados": ["Prontuário médico", "Laudo de óbito"],
+        "Falha_profissional": "Sedação do animal sem autorização dos tutores, falta de informação aos tutores sobre o estado de saúde do animal, negativa de acesso ao prontuário médico e resultados de exames",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°", "Art. 6°", "Art. 7°", "Art. 8°", "Art. 9°", "Art. 11°", "Art. 12°", "Art. 15°"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "47/2020",
+        "Denunciante": "Thiago Fernandes Tibúrcio e Gabriela Fernandes Tibúrcio",
+        "Motivacao_da_denuncia": "Procedimentos que podem caracterizar infrações ao Código de Ética do Médico Veterinário pela ora Denunciada",
+        "Categoria": "Atendimento clínico, Anestesia, Emergência",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Sedação", "Exame de imagem", "Anestesia", "Emergência"],
+        "Documentos_elaborados": ["Prontuário médico", "Laudo de óbito"],
+        "Falha_profissional": "Falta de informações aos tutores sobre procedimentos realizados, não disponibilização imediata de prontuário e resultados de exames, e alegada negligência e imperícia no atendimento",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5º", "Art. 7º", "Art. 8º", "Art. 13"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "35/2019",
+        "Denunciante": "David Pires Barreto Alexandrino",
+        "Motivacao_da_denuncia": "Procedimentos realizados no animal de seu tutelado",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgias", "Anestesia", "Transfusão sanguínea", "Terapêutica"],
+        "Documentos_elaborados": ["Relatório médico", "Fichas de prontuários"],
+        "Falha_profissional": "Realização de procedimentos cirúrgicos sem autorização do tutor, ocorrência de complicações no pós-operatório e divergência entre os laudos apresentados",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 7", "Art. 11", "Art. 12", "Art. 13"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "43/2020",
+        "Denunciante": "Ivan Moratori",
+        "Motivacao_da_denuncia": "Alegação de imperícia na realização da cirurgia de ovariosalpingohisterectomia (OSH) e negligência no pós-operatório da cadela Hayka",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "Cirurgia"],
+        "Documentos_elaborados": ["Termo de Consentimento Informado"],
+        "Falha_profissional": "Realização da cirurgia sem avaliação do risco cirúrgico, com intercorrência de hemorragia, alta precoce do animal, ausência de assistência médica durante o período de recuperação pós-operatória e demora em tomar medidas diante da piora do quadro clínico da paciente",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°", "Art. 6°", "Art. 8°", "Art. 10", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "48/2020",
+        "Denunciante": "Thiago Fernandes Tiburcio e Gabriela Fernandes Tiburcio",
+        "Motivacao_da_denuncia": "Morte do cão Boris durante internação na Clínica Vet Center Pet Ltda, com alegações de negligência, imperícia e falta de informações por parte dos profissionais da clínica",
+        "Categoria": "Clínica, Atendimento clínico, Emergência",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Internação", "Exame radiográfico", "Atendimento clínico", "Manobras de reanimação"],
+        "Documentos_elaborados": ["Prontuário médico", "Laudo de óbito"],
+        "Falha_profissional": "Alegação de sedação sem autorização dos tutores e falta de informações sobre o estado de saúde do animal durante a internação",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 14", "Art. 15", "Art. 16"],
+        "Procedencia_mantida": true
+        },
+       
+        {
+        "Numero_processo_etico": "50/2020",
+        "Denunciante": "Thiago Fernandes Tibúrcio e Gabriela Fernandes Tibúrcio",
+        "Motivacao_da_denuncia": "Denúncia sobre supostas faltas éticas no atendimento e tratamento do cão de nome Boris",
+        "Categoria": "Clínica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Anestesia", "Terapêutica", "Emergência"],
+        "Documentos_elaborados": ["Laudo de óbito"],
+        "Falha_profissional": "Falta de informação e comunicação com os tutores, além de negligência e imperícia no tratamento do animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6", "Art. 8", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "04/2022",
+        "Denunciante": "Méd. Vet. Patrícia Helena Batista Silveira – CRMV-MG no 5188",
+        "Motivacao_da_denuncia": "A denunciada vinha propagando informações deturpadas nas redes sociais sobre o tratamento da Leishmaniose Visceral Canina (LVC), afirmando que o Milteforan não seria o único tratamento reconhecido e que existiam medicamentos mais acessíveis com efeitos similares ou melhores. Além disso, a denunciada acusava a denunciante e o CCZ de Sete Lagoas de assassinarem animais 'sadios' e de realizarem exames (imunocromatográfico + ELISA) não confiáveis.",
+        "Categoria": "Clínica, Terapêutica, Exercício ilegal da Medicina Veterinária",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Tratamento de Leishmaniose Visceral Canina", "Exames (imunocromatográfico + ELISA)", "Eutanásia"],
+        "Documentos_elaborados": [],
+        "Falha_profissional": "Divulgação de informações deturpadas sobre o tratamento da LVC, indicação de medicamentos não autorizados, críticas infundadas aos serviços e procedimentos realizados pelo CCZ e pela denunciante.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 8o, incisos I, V, VII, VIII, XXIII, XXVI da Resolução 1138/2016 (Código de Ética)"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "18/2019",
+        "Denunciante": "Sr. Fabiano Martins de Araújo",
+        "Motivacao_da_denuncia": "Alegações de imperícia, imprudência ou negligência no tratamento do animal Cadu",
+        "Categoria": "Cirurgia, Tratamento, Anestesia, Terapêutica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "Laparotomia exploratória", "Cirurgias", "Anestesia", "Terapêutica"],
+        "Documentos_elaborados": ["Termo de responsabilidade de ato cirúrgico", "Termo de anestesia ou sedação", "Termo de responsabilidade financeira"],
+        "Falha_profissional": "Falha no tratamento do prolapso retal do animal, levando a complicações e posterior óbito",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 4°", "Art. 5°", "Art. 6°", "Art. 9°", "Art. 10°"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "14/2020",
+        "Denunciante": "Sra. Audrey Monteiro Colomarte",
+        "Motivacao_da_denuncia": "Cirurgia de castração realizada pela médica veterinária Cláudia Teixeira dos Santos na gata da denunciante, que após o procedimento apresentou quadro clínico de insuficiência renal aguda.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Felinos"],
+        "Tipo_de_procedimento": ["Castração", "Atendimento clínico"],
+        "Documentos_elaborados": ["Termo de autorização para cirurgia"],
+        "Falha_profissional": "Realização de procedimento cirúrgico em estabelecimento (Pet Shop) que não atendia aos requisitos mínimos previstos na Resolução CFMV 1275/2019, falta de cuidados pós-cirúrgicos adequados e negligência no acompanhamento da paciente.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5º", "Art. 6º", "Art. 9º", "Art. 10º"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "08/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Prática de maus-tratos contra cães e gatos, que foram esterilizados em campanha realizada pelo município de Bambuí.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Castração"],
+        "Documentos_elaborados": [],
+        "Falha_profissional": "Ausência de analgesia adequada durante os procedimentos cirúrgicos de esterilização.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 7"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "10/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Prática de maus-tratos contra cães e gatos esterilizados em campanha realizada pelo município de Bambuí",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Castração", "OSH (Ovariosalpingohisterectomia)", "Orquiectomia"],
+        "Documentos_elaborados": ["Laudo Técnico"],
+        "Falha_profissional": "Ausência de analgesia adequada durante os procedimentos cirúrgicos de esterilização dos animais",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5° inciso I", "Art. 5° inciso V", "Art. 5° inciso VIII"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "15/2018",
+        "Denunciante": "Amarildo de Sousa - Secretário M. de Saúde de Divinópolis",
+        "Motivacao_da_denuncia": "Elaboração de laudos de necropsia de cães eutanasiados no CREVISA - Centro de Referência em Vigilância e Saúde Ambiental, responsável pelo controle de zoonoses no Município de Divinópolis",
+        "Categoria": "Exames complementares",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Laudo de Necropsia"],
+        "Documentos_elaborados": ["Laudos de Necropsia"],
+        "Falha_profissional": "Alegação de imperícia e imprudência dos médicos veterinários do Município e externação de juízo de valor nos laudos de necropsia",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 28, inciso I"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "19/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Relatório de Vistoria por perito designado pelo Ministério Público de Minas Gerais (MPMG) em 29/07/2021 para avaliação dos procedimentos operacionais sob o aspecto do bem-estar animal e do abate de equídeos no Frigorifico Frigofava S/A, em Araguari, com constatação de diversas irregularidades",
+        "Categoria": "Bem-estar animal",
+        "Tipo_de_animal": ["Equinos"],
+        "Tipo_de_procedimento": ["Insensibilização", "Abate", "Transporte", "Manejo"],
+        "Documentos_elaborados": ["Relatório de Vistoria do MPMG"],
+        "Falha_profissional": "Falhas no manejo, estrutura física inadequada, problemas no processo de insensibilização e abate, e violação do bem-estar animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 7", "Art. 8", "Art. 10", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "19/2020",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "A Ouvidoria deste CRMV/MG recebeu Denúncia anônima nº 0061/2020, em 05/03/2020, registrando que a Denunciada é proprietária da Clínica Amor d'Bicho e realizava procedimentos cirúrgicos no subsolo sem a infraestrutura adequada, embora o estabelecimento tenha registro somente para consultório e que, além disso, vendia o medicamento 'Nexgard' falsificado, como se fosse legitimo, enganando as pessoas que compravam o mesmo na confiança. Também relatava que havia anúncios de promoções de procedimentos cirúrgicos publicados na internet em três oportunidades.",
+        "Categoria": ["Cirurgia", "Difamação", "Terapêutica"],
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Castração", "Tratamento de tártaro", "Anestesia", "Terapêutica"],
+        "Documentos_elaborados": ["Relatório da fiscal Solange Dias Ribeiro", "Auto de Infração e Auto de Apreensão do IMA"],
+        "Falha_profissional": ["Realização de procedimentos cirúrgicos sem infraestrutura adequada, venda de medicamento falsificado, publicação irregular de promoções de cirurgias na internet."],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 9, inciso V", "Art. 14"],
+        "Procedencia_mantida": true
+        },    
+        {
+        "Numero_processo_etico": "19/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Possível violação de conduta ética da Responsável Técnica do Frigorífico Frigofava S/A em Araguari/MG, de acordo com relatório de vistoria realizada pelo Ministério Público de Minas Gerais.",
+        "Categoria": "Bem-estar animal",
+        "Tipo_de_animal": ["Equinos"],
+        "Tipo_de_procedimento": ["Abate", "Insensibilização", "Manejo"],
+        "Documentos_elaborados": ["Relatório de Vistoria pelo Ministério Público de Minas Gerais"],
+        "Falha_profissional": "Diversas irregularidades constatadas na estrutura física, manejo e procedimentos de abate relacionados ao bem-estar animal.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 8", "Art. 9", "Art. 15"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "25/2018",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Solicitação da Promotora de Justiça Dra. Cristina Fagundes Siqueira, da 4a Promotoria de Justiça da Comarca de Araguari, de conhecimento, análise e providências em relação à suspeita de conduta irregular do Méd. Vet. Paulo William da Silva",
+        "Categoria": "Fiscalização do estabelecimento",
+        "Tipo_de_animal": ["Caninos","Felinos","Bovinos","Equinos"],
+        "Tipo_de_procedimento": ["Fiscalização sanitária", "Estrutura inadequada", "Vistoria"],
+        "Documentos_elaborados": ["Relatório de Inspeção Sanitária","Autos de Infração","Notificação"],
+        "Falha_profissional": "Deixar de exercer a contento suas atribuições como Responsável Técnico, permitindo o funcionamento irregular de estabelecimentos sob sua responsabilidade",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 4","Art. 5","Art. 6","Art. 28","Art. 29"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "41/2022",
+        "Denunciante": "Sra. Juliana Thays Ferreira",
+        "Motivacao_da_denuncia": "O Denunciado teria se negado a realizar atendimento de uma cadela em estado grave, sugerindo que a tutora buscasse atendimento em outra cidade. Posteriormente, realizou o atendimento de forma inadequada, com procedimentos equivocados e manejo agressivo do animal, o que teria culminado no óbito do animal.",
+        "Categoria": "Clínica, Atendimento clínico",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Anestesia", "Terapêutica"],
+        "Documentos_elaborados": ["Prontuário médico", "Termo de responsabilidade"],
+        "Falha_profissional": "Negativa de atendimento a animal em estado grave, manejo inadequado do animal, prescrição e administração equivocada de medicamentos",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 7º, alínea c", "Art. 8º, inciso XV"],
+        "Procedencia_mantida": true
+         },
+        {
+        "Numero_processo_etico": "16/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Emissão de Certificado Veterinário Internacional Eletrônico (e-CVI) com indícios de fraude",
+        "Categoria": "Exercício ilegal da Medicina Veterinária",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Emissão de Atestado de Saúde", "Vacinação"],
+        "Documentos_elaborados": ["Atestado de Saúde"],
+        "Falha_profissional": "Emissão de Atestado de Saúde com data de nascimento alterada do animal para burlar os requisitos de vacinação exigidos para emissão do e-CVI",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 12", "Art. 13"],
+        "Procedencia_mantida": true
+        },
+       
+        {
+        "Numero_processo_etico": "03/2021",
+        "Denunciante": "Célio Tadeu Barberato",
+        "Motivacao_da_denuncia": "O Denunciante apresentou denúncia contra a Médica Veterinária Juliana Carvalho Ibituruna por supostas irregularidades no atendimento e procedimentos realizados na cadela Princesa, da raça Shih-tzu",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Mastectomia unilateral", "Castração"],
+        "Documentos_elaborados": ["Não foram mencionados documentos elaborados"],
+        "Falha_profissional": "Suposta omissão no atendimento pós-operatório, falta de fornecimento de documentos solicitados, não informar endereço da clínica e não apresentar exames pré-cirúrgicos",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 8", "Art. 9"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "06/2022",
+        "Denunciante": "Elaine Abicassis Gonçalves",
+        "Motivacao_da_denuncia": "Realização de ovariosalpingohisterectomia (OSH) e remoção de uma mama da cadela Catiucha, com posterior sangramento e infecção",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração (OSH)", "Cirurgias (Remoção de mama)"],
+        "Documentos_elaborados": ["Termo de autorização para procedimento cirúrgico"],
+        "Falha_profissional": "Realização inadequada da cirurgia de OSH, deixando remanescência de tecido ovariano, o que gerou síndrome do ovário remanescente (SOR) e infecção grave no animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°", "Art. 6°", "Art. 7°", "Art. 10°", "Art. 12°"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "52/2020",
+        "Denunciante": "Vilma Marta dos Santos Miranda",
+        "Motivacao_da_denuncia": "Alegação de negligência e procedimentos inadequados na cirurgia de castração de duas cadelas, resultando no óbito de uma delas e sofrimento da outra",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "OSH (Ovariosalpingohisterectomia)"],
+        "Documentos_elaborados": ["Termo de Responsabilidade"],
+        "Falha_profissional": "Realização de procedimento cirúrgico com falhas, resultando no óbito de uma das cadelas e intenso sofrimento da outra",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Não especificado"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "04/2020",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Irregularidades constatadas pela fiscalização do MAPA na atuação do médico veterinário no Programa Nacional de Controle e Erradicação da Brucelose e Tuberculose Animal (PNCEBT)",
+        "Categoria": "Fiscalização do estabelecimento",
+        "Tipo_de_animal": ["Bovinos"],
+        "Tipo_de_procedimento": ["Emissão de atestados", "Uso de insumos", "Preenchimento de relatórios"],
+        "Documentos_elaborados": ["Atestados de realização de testes de brucelose e tuberculose", "Relatórios de utilização de antígeno e tuberculina"],
+        "Falha_profissional": "Irregularidades no preenchimento de atestados e relatórios, uso de insumos vencidos e outras falhas no cumprimento das normas do PNCEBT",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Artigos não especificados"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "05/2021",
+        "Denunciante": "Roberson Ricardo Rangel",
+        "Motivacao_da_denuncia": "Possíveis infrações ao Código de Ética do Médico Veterinário",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cesária", "Reanimação"],
+        "Documentos_elaborados": ["Laudo da cirurgia"],
+        "Falha_profissional": "Negligência no procedimento cirúrgico, resultando na morte de todos os 6 filhotes",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Artigos não especificados"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "49/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "O MPMG encaminhou a notícia fato 0024.22.017183-9, que registra que a cadela Yasha, Poodle de 5 anos, apresentou complicações após procedimento cirúrgico na Clínica Veterinária Padre Eustáquio, resultando em peritonite séptica e biliar grave, levando a óbito após transferência para o Hospital Veterinário da UFMG",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia de castração", "Laparotomia exploratória"],
+        "Documentos_elaborados": ["Termo de depoimento das tutoras", "Encaminhamento", "Descritivo de gastos", "Relatório de gastos", "Relatório de exame clínico", "Ficha cirúrgica"],
+        "Falha_profissional": "Falhas na realização dos procedimentos cirúrgicos, falta de informação aos tutores sobre a evolução clínica do animal e más condições de internação na Clínica Veterinária do denunciado.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 12"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "24/2020",
+        "Denunciante": "Maria Aparecida Coutinho",
+        "Motivacao_da_denuncia": "A Denunciante afirma que o Denunciado realizou uma vacinação contra leishmaniose visceral canina no seu cão Sakê, ignorando a recomendação da fabricante da vacina sobre o reforço anual.",
+        "Categoria": "Vacinação",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Vacinação"],
+        "Documentos_elaborados": ["Cartão de vacina"],
+        "Falha_profissional": "O Denunciado vacinou o cão Sakê contra leishmaniose visceral canina, ignorando as recomendações do fabricante da vacina sobre o reforço anual.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°, incisos I, V e IX", "Art. 6°, incisos I, II e III", "Art. 8°", "Art. 9°, inciso I"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "49/2020",
+        "Denunciante": "Thiago Fernandes Tiburcio e Gabriela Fernandes Tiburcio",
+        "Motivacao_da_denuncia": "Negligência e imperícia no atendimento do cão Boris, resultando no seu óbito",
+        "Categoria": "Clínica, Atendimento clínico",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Anestesia", "Terapêutica", "Emergência"],
+        "Documentos_elaborados": ["Prontuário do animal", "Laudo de óbito"],
+        "Falha_profissional": "Sedação do animal sem autorização dos tutores, negativa de acesso aos documentos e informações sobre o atendimento, negligência e imperícia no tratamento do animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 4°", "Art. 5°", "Art. 7°", "Art. 9°"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "09/2023",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Realização de exame de ultrassom por estagiário sem a adequada supervisão do médico veterinário responsável, além de irregularidades no laudo do exame realizado.",
+        "Categoria": "Exames complementares",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Ultrassonografia"],
+        "Documentos_elaborados": ["Laudo ultrassonográfico"],
+        "Falha_profissional": "Realização de exame de ultrassom por estagiário sem a adequada supervisão e orientação da médica veterinária, além de irregularidades no laudo do exame realizado.",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        
+        {
+        "Numero_processo_etico": "38/2023",
+        "Denunciante": "Sra. Aline Vianello Tavares",
+        "Motivacao_da_denuncia": "O animal Floquinho, cão da raça Shih-Tzu, sofreu uma queda da cama da denunciante no domingo, dia 24/07/2022, e foi levado para Vet4Pet Veterinária Avançada, com suspeita de lesão na face. Apesar de o animal ter sido atendido e detectadas duas fraturas na mandíbula, o estabelecimento não tinha profissional qualificado disponível no domingo e deixou o animal sem atendimento até o dia seguinte. Após a cirurgia, o animal apresentou reação alérgica a medicamentos, com feridas necrosadas no pescoço, que não foram devidamente diagnosticadas e tratadas, levando a piora do quadro clínico.",
+        "Categoria": "Cirurgia, Atendimento clínico, Terapêutica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia de castração", "Atendimento clínico", "Tratamento de tártaro"],
+        "Documentos_elaborados": ["Radiografia", "Biópsia", "Laudo radiográfico"],
+        "Falha_profissional": "Diagnóstico equivocado da reação alérgica, falta de cuidados no pós-operatório, demora no tratamento adequado das lesões.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 3º", "Art. 5º", "Art. 6º", "Art. 9º"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "35/2023",
+        "Denunciante": "Sra. Aline Vianello Tavares",
+        "Motivacao_da_denuncia": "O cão Floquinho, da raça Shih-Tzu, sofreu queda e apresentou fraturas na mandíbula. A clínica Vet4Pet Veterinária Avançada realizou o atendimento, mas não conseguiu fazer a cirurgia no mesmo dia, deixando o animal sem tratamento por um dia. Após a cirurgia, o animal apresentou reação alérgica a medicamento com lesões necrosadas no pescoço, que não foram diagnosticadas corretamente e não receberam o tratamento adequado, levando a um agravamento do quadro do animal.",
+        "Categoria": "Cirurgia, Clínica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia de castração", "Anestesia", "Terapêutica"],
+        "Documentos_elaborados": ["Prontuário", "Laudo radiográfico", "Laudo de biópsia"],
+        "Falha_profissional": "Atraso no atendimento cirúrgico, erro no diagnóstico da reação alérgica, negligência no tratamento das lesões necrosadas e omissão de informações no prontuário",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 7", "Art. 10", "Art. 12"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "27/2020",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Publicidade de campanha de castração com respectivos preços registrados",
+        "Categoria": "Publicidade",
+        "Tipo_de_animal": ["Felinos"],
+        "Tipo_de_procedimento": ["Castração"],
+        "Documentos_elaborados": ["Notificações - Processo Investigatório n° 4.358/2019 e Processo Investigatório n° 5.109/2019"],
+        "Falha_profissional": "Veiculação de publicidade de Campanha de Castração com respectivos preços, apesar de notificações prévias sobre infrações éticas",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 13", "Art. 14", "Art. 27"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "09/2017",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Averiguar a participação da Denunciada nos fatos ocorridos no estabelecimento Pronto Socorro Veterinário, onde foi atendida uma cadela em trauma torácico, por uma plantonista, que veio a óbito, e a plantonista foi denunciada pela tutora a este conselho. O estabelecimento, na época, não cumpria integralmente o que determinava a Resolução CFMV Nº 1015 DE 09/11/2012.",
+        "Categoria": "Atendimento clínico, Emergência",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Emergência"],
+        "Documentos_elaborados": ["Autorização para internação", "Prontuário", "Memorial de medicação usada", "Manual de cuidados com filhotes na vacinação", "Autorização para utilização de hormônio", "Termo de responsabilidade do tutor na alta clínica", "Autorização para sedação e anestesia", "Autorização para cirurgia", "Autorização para transfusão sanguínea", "Autorização para eutanásia", "Autorização para pós conduta cirúrgica"],
+        "Falha_profissional": "O estabelecimento não cumpria integralmente o que determinava a Resolução CFMV Nº 1015 DE 09/11/2012, não possuindo os setores mínimos de diagnóstico por imagem e laboratório de análises clínicas.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6º - IV", "Art. 8º - XIX", "Art. 9º - III"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "12/2023",
+        "Denunciante": "Sra. Camila Henriques Ferreira Carvalho",
+        "Motivacao_da_denuncia": "A cadela Amora, da raça Golden Retriever, sofreu um acidente doméstico e teve a ponta da cauda lacerada. A tutora alega que o veterinário denunciado realizou a caudectomia total sem o seu consentimento prévio, além de não haver prescrição de medicamentos para dor e/ou realização de raio-x para avaliar a fratura.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia", "Exame de imagem"],
+        "Documentos_elaborados": ["Termos de autorização anestésica e caudectomia", "Boletim de Ocorrência", "Laudo veterinário da segunda opinião"],
+        "Falha_profissional": "Realização de caudectomia total sem o consentimento prévio da tutora, além da falta de prescrição de medicamentos para dor e realização de exame de imagem.",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        
+        {
+        "Numero_processo_etico": "21/2021",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Descumprimento do estabelecido nas normas do PNCEBT (Programa Nacional de Controle e Erradicação da Brucelose e Turberculose Animal)",
+        "Categoria": "Exercício ilegal da Medicina Veterinária",
+        "Tipo_de_animal": ["Bovinos"],
+        "Tipo_de_procedimento": ["Fiscalização do estabelecimento", "Terapêutica"],
+        "Documentos_elaborados": ["Atestados de realização de testes de diagnósticos de brucelose e tuberculose", "Relatórios de utilização de insumos"],
+        "Falha_profissional": "Não apresentar atestados de testes de diagnóstico junto com os relatórios mensais, apresentar relatórios com divergências nas quantidades de antígenos e tuberculinas, e emitir atestado de teste em nome de um produtor diferente do animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1°", "Art. 3°", "Art. 6° - I", "Art. 8° - XXI", "Art. 9° - I, c, V", "Art. 17 - I"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "22/2022",
+        "Denunciante": "Sra. Martha Veloso Colen",
+        "Motivacao_da_denuncia": "Possível infração ética e maus-tratos no atendimento do cão Broly",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Reposicionamento do globo ocular", "Enucleação"],
+        "Documentos_elaborados": ["Prontuário cirúrgico", "Resumo de internação"],
+        "Falha_profissional": "Alegação de que o olho do animal não foi limpo e raspado adequadamente para o reposicionamento, permanecendo com pêlos dificultando a limpeza, e que o olho não teria sido reposicionado de forma adequada.",
+        "Procedencia": true,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "20/2022",
+        "Denunciante": "Sra. Martha Veloso Colen",
+        "Motivacao_da_denuncia": "Denúncia contra a Med. Vet. Alessandra Seixas Miranda Viana devido a supostas falhas no atendimento do cão da denunciante, Broly, que teve o olho direito protuído após um acidente e acabou tendo o olho enucleado",
+        "Categoria": "Cirurgia, Clínica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Reposicionamento do globo ocular", "Enucleação"],
+        "Documentos_elaborados": ["Relatório de atendimento", "Receita"],
+        "Falha_profissional": "Atraso na realização do procedimento de reposicionamento do olho, falta de limpeza adequada do olho antes do procedimento e divergência de informações nos documentos",
+        "Procedencia": false,
+        "Artigos_infringidos": ["Art. 7", "Art. 11"],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "08/2023",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Realização de eutanásia em cadela saudável a pedido do tutor",
+        "Categoria": "Eutanásia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Eutanásia"],
+        "Documentos_elaborados": ["Ficha descritiva do procedimento", "Termo de autorização do tutor"],
+        "Falha_profissional": "Realização de eutanásia em animal saudável sem justificativa ética adequada",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°, inciso VI do Código de Ética Médico Veterinária"],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "20/2019",
+        "Denunciante": "Marcos Macedo de Souza e outros",
+        "Motivacao_da_denuncia": "Cirurgia de OSH (Ovariosalpingohisterectomia) e tartarectomia realizada na cadela Minie, que evoluiu com complicações e óbito",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "Tratamento de tártaro"],
+        "Documentos_elaborados": ["Laudo da veterinária atendente", "Ultrassom"],
+        "Falha_profissional": "Realização de cirurgia em estabelecimento que não possuía a estrutura adequada e a paciente evoluiu com quadro grave e óbito",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 8", "Art. 9", "Art. 12"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "45/2020",
+        "Denunciante": "Thiago Fernandes Tiburcio e Gabriela Fernandes Tiburcio",
+        "Motivacao_da_denuncia": "Procedimentos que podem caracterizar infrações ao Código de Ética do Médico Veterinário pelo denunciado",
+        "Categoria": "Atendimento clínico, Cirurgia, Anestesia, Emergência",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Anamnese", "Consulta", "Sedação", "Anestesia", "Reanimação cardiopulmonar", "Exame de imagem (Raio X)"],
+        "Documentos_elaborados": ["Prontuário médico", "Laudo de óbito"],
+        "Falha_profissional": "Falta de informação aos tutores sobre procedimentos realizados no animal, negativa de acesso aos documentos, negligência e imperícia no atendimento do animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 8°", "Art. 9°", "Art. 10"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "62/2020",
+        "Denunciante": "Brunna Rudielly de Andrade Freitas",
+        "Motivacao_da_denuncia": "Denúncia contra a Clínica de Triagem Veterinária - CTV e seu Responsável Técnico por irregularidades no atendimento de seus cães Duque e Roberto",
+        "Categoria": "Atendimento clínico",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Exame de imagem", "Terapêutica"],
+        "Documentos_elaborados": ["Receita"],
+        "Falha_profissional": "Alegação de que a estagiária Alexia atuou como médica-veterinária, realizando diagnóstico, prescrição e medicação de forma ilegal e equivocada",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "46/2020",
+        "Denunciante": "Thiago Fernandes Tibúrcio e Gabriela Fernandes Tibúrcio",
+        "Motivacao_da_denuncia": "Procedimentos que podem caracterizar infrações ao Código de Ética do Médico Veterinário pela denunciada",
+        "Categoria": "Clínica, Atendimento clínico, Anestesia, Terapêutica, Emergência",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Sedação", "Ventilação mecânica", "Reanimação cardiopulmonar (RCP)"],
+        "Documentos_elaborados": ["Prontuário médico do animal", "Laudo de óbito"],
+        "Falha_profissional": "Alegada negligência e imperícia no atendimento do animal, realização de procedimentos sem autorização dos tutores e não fornecimento imediato dos documentos solicitados",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5º", "Art. 6º", "Art. 7º", "Art. 8º", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+      
+        {
+        "Numero_processo_etico": "64/2020",
+        "Denunciante": "Alyne Araújo Ribeiro",
+        "Motivacao_da_denuncia": "Realização de procedimentos cirúrgicos em uma cadela resgatada de uma casa abandonada, com suspeita de negligência durante o tratamento e óbito da animal.",
+        "Categoria": "Cirurgia, Clínica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "Cirurgia", "Atendimento clínico", "Terapêutica", "Emergência"],
+        "Documentos_elaborados": ["Laudo/Relatório sobre o tratamento da cadela"],
+        "Falha_profissional": "Alegada negligência durante o tratamento da cadela, com negativa de medicamentos para vômito e omissão de informações sobre o agravamento do quadro clínico.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°", "Art. 9°", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "19/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Relatório de Vistoria por perito designado pelo Ministério Público de Minas Gerais (MPMG) em 29/07/2021 para avaliação dos procedimentos operacionais sob o aspecto do bem-estar animal e do abate de equídeos no Frigorifico Frigofava S/A, em Araguari, com constatação de diversas irregularidades",
+        "Categoria": "Bem-estar animal",
+        "Tipo_de_animal": ["Equinos"],
+        "Tipo_de_procedimento": ["Insensibilização", "Abate", "Transporte", "Manejo"],
+        "Documentos_elaborados": ["Relatório de Vistoria do MPMG"],
+        "Falha_profissional": "Falhas no manejo, estrutura física inadequada, problemas no processo de insensibilização e abate, e violação do bem-estar animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 7", "Art. 8", "Art. 10", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "19/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Possível violação de conduta ética da Responsável Técnica do Frigorífico Frigofava S/A em Araguari/MG, de acordo com relatório de vistoria realizada pelo Ministério Público de Minas Gerais.",
+        "Categoria": "Bem-estar animal",
+        "Tipo_de_animal": ["Equinos"],
+        "Tipo_de_procedimento": ["Abate", "Insensibilização", "Manejo"],
+        "Documentos_elaborados": ["Relatório de Vistoria pelo Ministério Público de Minas Gerais"],
+        "Falha_profissional": "Diversas irregularidades constatadas na estrutura física, manejo e procedimentos de abate relacionados ao bem-estar animal.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 8", "Art. 9", "Art. 15"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "32/2022",
+        "Denunciante": "Fernando de Almeida Sassarroni",
+        "Motivacao_da_denuncia": "Irregularidades no abrigo municipal, no atendimento clínico e nas castrações realizadas na SIAPMA - Seção de Incentivo à Agricultura, Pecuária, Meio Ambiente e Fiscalização Animal de Jacutinga pelo Denunciado, como estrutura inadequada, histórico de negligência nas castrações, maus tratos aos animais e proibição de visitas dos protetores ao abrigo",
+        "Categoria": "Clínica, Cirurgia, Atendimento clínico",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Castração", "Atendimento clínico"],
+        "Documentos_elaborados": ["Atestado de óbito"],
+        "Falha_profissional": "Realização de procedimentos em locais inadequados, ausência de registro de atendimentos e elaboração de prontuários, morte de animais após procedimentos cirúrgicos",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 8º, incisos IV, XIX e XXX", "Art. 5º da Lei 21.970/2016"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "23/2019",
+        "Denunciante": "Bruno Monteiro Vasconcelos",
+        "Motivacao_da_denuncia": "Procedimento realizado pelo médico-veterinário Marcelo Simões Dayrell no atendimento do animal Rambo, raça rottweiller, que apresentava problemas no joelho direito e leishmaniose",
+        "Categoria": "Cirurgia, Clínica, Exames complementares",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia de TPLO", "Laparotomia exploratória", "Tratamento de leishmaniose", "Atendimento clínico", "Cirurgia para correção de ruptura de cápsula articular"],
+        "Documentos_elaborados": ["Relatórios médicos", "Exames laboratoriais"],
+        "Falha_profissional": ["Complicações e sequelas no pós-operatório, amputação de um dedo do animal devido a necrose, tratamento inadequado da leishmaniose"],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 7º", "Art. 15", "Art. 19"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "09/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Prática de maus-tratos contra cães e gatos esterilizados em campanha realizada pelo município de Bambuí",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Castração", "Esterilização Cirúrgica"],
+        "Documentos_elaborados": ["Laudo Técnico"],
+        "Falha_profissional": "Ausência de analgesia durante a realização dos procedimentos cirúrgicos de esterilização",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 4", "Art. 5", "Art. 8", "Art. 10"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "29/2021",
+        "Denunciante": "Lílian Marques da Silva e Rafael Fernando do Carmo Cassimiro",
+        "Motivacao_da_denuncia": "Alegação de falhas durante o acompanhamento da gestação e procedimento cirúrgico da cadela Sunny",
+        "Categoria": "Cirurgia, Clínica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Ultrassonografia", "Cesariana", "Castração"],
+        "Documentos_elaborados": ["Laudo de ultrassom"],
+        "Falha_profissional": "Antecipação da cesariana sem seguir recomendações sobre monitoramento da frequência cardíaca fetal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Arts. 5, 6, 7 e 8 do Código de Ética do Médico Veterinário"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "Desagravo Público n° 01/2024",
+        "Denunciante": "Méd. Vet. Rayane Kellen de Oliveira Nunes – CRMV-MG no 26861",
+        "Motivacao_da_denuncia": "Possíveis ofensas proferidas em razão do exercício profissional e/ou violação aos direitos e prerrogativas profissionais pela Ofensora Sra. Polianna Pereira da Silva",
+        "Categoria": "Difamação",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Emergência"],
+        "Documentos_elaborados": ["Printscreens das postagens nas redes sociais"],
+        "Falha_profissional": "Difamação, ataques e ameaças à Méd. Vet. Rayane Kellen de Oliveira Nunes devido ao não atendimento de uma cirurgia emergencial em final de semana",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1o - inciso I da Resolução 1525/23 do Conselho Federal de Medicina Veterinária (CFMV)"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "08/2022",
+        "Denunciante": "Sra. Maria Adriana Sbampato Maia Santos",
+        "Motivacao_da_denuncia": "Suposto cometimento de infrações ao Código de Ética do Médico Veterinário pela denunciada",
+        "Categoria": "Maus tratos, Bem-estar animal",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Fiscalização do estabelecimento", "Emergência"],
+        "Documentos_elaborados": ["Termo de Intimação nº 709/A2", "Termo de Intimação nº 708/A2", "Termo de Intimação nº 714/A2"],
+        "Falha_profissional": "Omissão e negligência da denunciada em não prestar socorro aos animais que se encontravam em situação de maus tratos e grave estado de saúde",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6", "Art. 7", "Art. 10", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "28/2021",
+        "Denunciante": "Claudionora Oliveira Alves Nascimento",
+        "Motivacao_da_denuncia": "Morte de animal após procedimento cirúrgico de ovariosalpingohisterectomia realizado durante campanha de castração",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "Cirurgia"],
+        "Documentos_elaborados": ["Boletim de Ocorrência"],
+        "Falha_profissional": [
+        "Não realização de exames pré-operatórios",
+        "Protocolo anestésico questionável para paciente com piometra",
+        "Liberação do animal ainda desacordado e com a língua parcialmente para fora",
+        "Ausência de cuidados pós-operatórios adequados para paciente com piometra",
+        "Permissão de presença do filho da tutora durante o procedimento cirúrgico sem vestimenta adequada",
+        "Irregularidades no estabelecimento onde o procedimento foi realizado"
+        ],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 7", "Art. 10", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "59/2020",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Irregularidades encontradas no estabelecimento FARMAVET - Farmácia Veterinária, de propriedade do denunciado, incluindo produtos importados sem transcrição de rótulo e sem registro no país, produtos com data de validade vencida, e medicamentos de uso humano exclusivo para uso hospitalar",
+        "Categoria": "Exercício ilegal da Medicina Veterinária",
+        "Tipo_de_animal": ["Diversos"],
+        "Tipo_de_procedimento": ["Fiscalização do estabelecimento"],
+        "Documentos_elaborados": ["Relatório Técnico de Inspeção Sanitária da Prefeitura de Cuiabá/MT", "Auto de Infração n° 172/2016", "Termo de Fiscalização do CRMV-MT"],
+        "Falha_profissional": "Armazenamento e comercialização irregular de medicamentos veterinários importados sem registro, medicamentos vencidos e medicamentos de uso humano exclusivo para uso hospitalar",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 3°", "Art. 6°", "Art. 9°"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "36/2020",
+        "Denunciante": "De Oficio",
+        "Motivacao_da_denuncia": "Possíveis irregularidades e maus tratos contra animais encontrados em fiscalização da clínica",
+        "Categoria": "Cirurgia, Clínica, Terapêutica, Exercício ilegal da Medicina Veterinária",
+        "Tipo_de_animal": ["Felinos"],
+        "Tipo_de_procedimento": ["Fiscalização do estabelecimento", "Tratamento de tártaro", "Cirurgias", "Anestesia", "Terapêutica"],
+        "Documentos_elaborados": ["Auto de Infração pelo PROCON"],
+        "Falha_profissional": ["Ausência de controle adequado de medicamentos controlados, Falta de estrutura e equipamentos mínimos para setor cirúrgico, Presença de medicamentos vencidos, Acondicionamento inadequado de animal morto"],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 9 da Resolução CFMV 1275/2019"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "24/2022",
+        "Denunciante": "Sra. Izaura Maria de Souza Nunes",
+        "Motivacao_da_denuncia": "Alegação de negligência no atendimento ao cão Spike, incluindo atraso no diagnóstico e encaminhamento a outro profissional, além de questionamento sobre o armazenamento e validade das vacinas aplicadas no animal",
+        "Categoria": "Clínica, Atendimento clínico, Terapêutica, Vacinação",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Terapêutica", "Vacinação"],
+        "Documentos_elaborados": ["Receitas médicas", "Exame de sangue"],
+        "Falha_profissional": "Alegação de atraso no diagnóstico e encaminhamento do animal para outro profissional, além de possível falha no armazenamento e validade das vacinas aplicadas",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5º", "Art. 6º", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "25/2018",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Solicitação da Promotora de Justiça Dra. Cristina Fagundes Siqueira, da 4a Promotoria de Justiça da Comarca de Araguari, de conhecimento, análise e providências em relação à suspeita de conduta irregular do Méd. Vet. Paulo William da Silva",
+        "Categoria": "Fiscalização do estabelecimento",
+        "Tipo_de_animal": ["Caninos","Felinos","Bovinos","Equinos"],
+        "Tipo_de_procedimento": ["Fiscalização sanitária", "Estrutura inadequada", "Vistoria"],
+        "Documentos_elaborados": ["Relatório de Inspeção Sanitária","Autos de Infração","Notificação"],
+        "Falha_profissional": "Deixar de exercer a contento suas atribuições como Responsável Técnico, permitindo o funcionamento irregular de estabelecimentos sob sua responsabilidade",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 4","Art. 5","Art. 6","Art. 28","Art. 29"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "16/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Emissão de Certificado Veterinário Internacional Eletrônico (e-CVI) com indícios de fraude",
+        "Categoria": "Exercício ilegal da Medicina Veterinária",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Emissão de Atestado de Saúde", "Vacinação"],
+        "Documentos_elaborados": ["Atestado de Saúde"],
+        "Falha_profissional": "Emissão de Atestado de Saúde com data de nascimento alterada do animal para burlar os requisitos de vacinação exigidos para emissão do e-CVI",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 12", "Art. 13"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "03/2021",
+        "Denunciante": "Célio Tadeu Barberato",
+        "Motivacao_da_denuncia": "O Denunciante apresentou denúncia contra a Médica Veterinária Juliana Carvalho Ibituruna por supostas irregularidades no atendimento e procedimentos realizados na cadela Princesa, da raça Shih-tzu",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Mastectomia unilateral", "Castração"],
+        "Documentos_elaborados": ["Não foram mencionados documentos elaborados"],
+        "Falha_profissional": "Suposta omissão no atendimento pós-operatório, falta de fornecimento de documentos solicitados, não informar endereço da clínica e não apresentar exames pré-cirúrgicos",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 8", "Art. 9"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "06/2022",
+        "Denunciante": "Elaine Abicassis Gonçalves",
+        "Motivacao_da_denuncia": "Realização de ovariosalpingohisterectomia (OSH) e remoção de uma mama da cadela Catiucha, com posterior sangramento e infecção",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração (OSH)", "Cirurgias (Remoção de mama)"],
+        "Documentos_elaborados": ["Termo de autorização para procedimento cirúrgico"],
+        "Falha_profissional": "Realização inadequada da cirurgia de OSH, deixando remanescência de tecido ovariano, o que gerou síndrome do ovário remanescente (SOR) e infecção grave no animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°", "Art. 6°", "Art. 7°", "Art. 10°", "Art. 12°"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "52/2020",
+        "Denunciante": "Vilma Marta dos Santos Miranda",
+        "Motivacao_da_denuncia": "Alegação de negligência e procedimentos inadequados na cirurgia de castração de duas cadelas, resultando no óbito de uma delas e sofrimento da outra",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "OSH (Ovariosalpingohisterectomia)"],
+        "Documentos_elaborados": ["Termo de Responsabilidade"],
+        "Falha_profissional": "Realização de procedimento cirúrgico com falhas, resultando no óbito de uma das cadelas e intenso sofrimento da outra",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Não especificado"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "04/2020",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Irregularidades constatadas pela fiscalização do MAPA na atuação do médico veterinário no Programa Nacional de Controle e Erradicação da Brucelose e Tuberculose Animal (PNCEBT)",
+        "Categoria": "Fiscalização do estabelecimento",
+        "Tipo_de_animal": ["Bovinos"],
+        "Tipo_de_procedimento": ["Emissão de atestados", "Uso de insumos", "Preenchimento de relatórios"],
+        "Documentos_elaborados": ["Atestados de realização de testes de brucelose e tuberculose", "Relatórios de utilização de antígeno e tuberculina"],
+        "Falha_profissional": "Irregularidades no preenchimento de atestados e relatórios, uso de insumos vencidos e outras falhas no cumprimento das normas do PNCEBT",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Artigos não especificados"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "05/2021",
+        "Denunciante": "Roberson Ricardo Rangel",
+        "Motivacao_da_denuncia": "Possíveis infrações ao Código de Ética do Médico Veterinário",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cesária", "Reanimação"],
+        "Documentos_elaborados": ["Laudo da cirurgia"],
+        "Falha_profissional": "Negligência no procedimento cirúrgico, resultando na morte de todos os 6 filhotes",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Artigos não especificados"],
+        "Procedencia_mantida": true
+        },
+       
+        {
+        "Numero_processo_etico": "30/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Realização de procedimentos inadequados em Clínica Veterinária e maus-tratos a animais",
+        "Categoria": "Clínica, Maus-tratos, Descarte irregular de resíduos, Armazenamento de produtos vencidos, Uso de medicamentos humanos",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Tratamento de leishmaniose com Anfotericina B", "Descarte irregular de resíduos", "Armazenamento de produtos vencidos"],
+        "Documentos_elaborados": ["Laudo pericial"],
+        "Falha_profissional": [
+        "Realização de procedimentos inadequados em Clínica Veterinária",
+        "Maus-tratos a animais",
+        "Descarte irregular de resíduos hospitalares",
+        "Armazenamento de produtos vencidos",
+        "Utilização de medicamentos humanos para tratamento de leishmaniose"
+        ],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 8", "Art. 9"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "49/2020",
+        "Denunciante": "Thiago Fernandes Tiburcio e Gabriela Fernandes Tiburcio",
+        "Motivacao_da_denuncia": "Negligência e imperícia no atendimento do cão Boris, resultando no seu óbito",
+        "Categoria": "Clínica, Atendimento clínico",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Anestesia", "Terapêutica", "Emergência"],
+        "Documentos_elaborados": ["Prontuário do animal", "Laudo de óbito"],
+        "Falha_profissional": "Sedação do animal sem autorização dos tutores, negativa de acesso aos documentos e informações sobre o atendimento, negligência e imperícia no tratamento do animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 4°", "Art. 5°", "Art. 7°", "Art. 9°"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "38/2018",
+        "Denunciante": "Senhora Ivânia Maria Alexandre",
+        "Motivacao_da_denuncia": "A denunciante afirma que levou seu cão para realização de exame ultrassonográfico em uma clínica de diagnóstico por imagem, mas o exame não foi realizado.",
+        "Categoria": "Exames complementares",
+        "Tipo_de_animal": ["Canino"],
+        "Tipo_de_procedimento": ["Exame de imagem (Ultrassonografia)"],
+        "Documentos_elaborados": ["Boletim de Ocorrência Policial"],
+        "Falha_profissional": "Omissão de atendimento e socorro",
+        "Procedencia": false,
+        "Artigos_infringidos": ["Não houve infração ao Código de Ética do Médico Veterinário"],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "Processo Ético-Profissional n° 32/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Emissão de Certificado Veterinário Internacional - CVI sem atender requisitos legais, pois emitiu um atestado sanitário de um cão, datado de 4 de novembro de 2017, mas apresentado no Serviço de Vigilância Agropecuária do Aeroporto Internacional de Guarulhos MAPA/GIVI-GRU no dia 3 do mesmo mês e ano, além de registrar que o Atestado de Saúde era válido por 60 dias.",
+        "Categoria": "Exames complementares, Fiscalização do estabelecimento",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atestado de Saúde","Certificado Veterinário Internacional - CVI"],
+        "Documentos_elaborados": ["Atestado de Saúde"],
+        "Falha_profissional": "Emissão de Atestado de Saúde com validade de 60 dias, quando a norma do MAPA orienta que seja emitido no prazo máximo de 10 dias.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1°", "Art. 6° - I e II", "Art. 8° - V e XXI", "Art. 9° - I 'b' e 'c', e V", "Art. 17 - I"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "19/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "O Denunciado sugeriu mas não prescreveu receita contendo o medicamento MILTEFORAN, receitando outros medicamentos para o cão de nome Nino, da raça Shiba Inu, de 10 meses de idade, de propriedade do Sr. Robson Mendes e sua esposa Sangela, comprovadamente soro reagente para Leishmaniose Visceral Canina, diagnosticado por meio de coleta e exame realizado pelo laboratório LaborVetri e confirmado pelo Centro de Zoonoses da Prefeitura de Uberlândia.",
+        "Categoria": "Terapêutica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Prescrição de medicamentos", "Tratamento"],
+        "Documentos_elaborados": ["Receita"],
+        "Falha_profissional": "O Denunciado não prescreveu o medicamento Milteforan, que é obrigatório para o tratamento da Leishmaniose Visceral Canina, conforme a legislação vigente.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1°", "Art. 3°", "Art. 6°, inciso VII e X", "Art. 8°, incisos I, V, IX, XXIII, XXXII", "Art. 9°, incisos I e V"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "24/2021",
+        "Denunciante": "Alexssandro dos Santos Barbosa",
+        "Motivacao_da_denuncia": "Diagnóstico equivocado de gravidez da cadela Mel, que na verdade sofria de piometra",
+        "Categoria": "Clínica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Exame de imagem"],
+        "Documentos_elaborados": ["Áudio transmitindo informação da suposta gravidez"],
+        "Falha_profissional": "Falta de realização de exames complementares para confirmação do diagnóstico de gravidez",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°", "Art. 6°", "Art. 7°"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "18/2020",
+        "Denunciante": "Patrícia Liriam Viana Garcia",
+        "Motivacao_da_denuncia": "Denúncia contra atendimento veterinário realizado pelo médico veterinário Geraldo Magela de Miranda na cadela Sol",
+        "Categoria": "Atendimento clínico, Anestesia, Terapêutica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Anestesia", "Tratamento de tártaro"],
+        "Documentos_elaborados": ["Laudo da Dra. Lorena Ferreira sobre a morte da cadela Sol"],
+        "Falha_profissional": "Realização de procedimento de tratamento de tártaro em animal debilitado, em local inapropriado, sem autorização formal do cliente e sem suporte adequado",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1º", "Art. 8º, XIX", "Art. 9º, I, a, b, c", "Art. 9º, VII"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "25/2020",
+        "Denunciante": "CRMV-MG De Ofício",
+        "Motivacao_da_denuncia": "Funcionamento irregular de Clínica Veterinária; permissão de falso médico veterinário atuar em estabelecimento onde o Denunciado era Responsável Técnico; preenchimento irregular de documentos; e identificação de medicamentos de uso controlado no estabelecimento de forma irregular.",
+        "Categoria": "Cirurgia, Atendimento clínico, Terapêutica, Exercício ilegal da Medicina Veterinária",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Fiscalização do estabelecimento", "Atendimento clínico", "Terapêutica", "Exercício ilegal da Medicina Veterinária"],
+        "Documentos_elaborados": ["Termo de Fiscalização n° 048864", "Check List baseado na Resolução 1275/2019/CFMV", "Relatório com registro fotográfico"],
+        "Falha_profissional": ["Funcionamento irregular da clínica, com desrespeito às normas legais; preenchimento irregular de documentos; e identificação de medicamentos de uso controlado no estabelecimento de forma irregular."],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 4°", "Art. 5°", "Art. 6°", "Art. 7°", "Art. 8°", "Art. 9°", "Art. 10", "Art. 11", "Art. 12"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "13/2020",
+        "Denunciante": "Ilídio Antônio dos Santos",
+        "Motivacao_da_denuncia": "Denúncia apresentada contra o médico veterinário Engelbert Veloso Wieloch, acusado de ter realizado um disparo de arma de fogo que atingiu um cão de propriedade de terceiros, na presença de menores de idade.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Cirurgias"],
+        "Documentos_elaborados": ["Boletim de Ocorrência", "Laudo veterinário"],
+        "Falha_profissional": "O denunciado, em seu laudo, afirmou que o animal foi atingido por 3 disparos, divergindo do Boletim de Ocorrência que menciona 4 perfurações, além de irregularidades na estrutura e funcionamento da clínica veterinária.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1º", "Art. 3º", "Art. 6º - VI, XI", "Art. 8º - XIX", "Art. 9º - I - b; V"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "66/2020",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Realização de cirurgias de esterilização em estabelecimento irregular, sem registro no CRMV-MG, com inadequações relativas à Resolução CFMV nº 1275/2020, e com divulgação e realização irregular de projeto de castração de cães e gatos",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Castração", "Esterilização Cirúrgica"],
+        "Documentos_elaborados": ["Relatório de Fiscalização"],
+        "Falha_profissional": "Realização de cirurgias em estabelecimento que não atendia as normas e resoluções do CRMV-MG, colocando em risco o bem-estar dos animais",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1º", "Art. 3º", "Art. 4º", "Art. 6º, inciso X", "Art. 8º, incisos XIX, XXX, XXXII", "Art. 9º, incisos I (a, b, c), V", "Art. 17, inciso I"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "40/2022",
+        "Denunciante": "Gabriela Azevedo Araújo e Gustavo Felipe de Souza Porto",
+        "Motivacao_da_denuncia": "Realização de cirurgia de castração em animal (Tom, raça Shih-tzu) que veio a óbito durante o procedimento, devido a alegada negligência da denunciada.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração"],
+        "Documentos_elaborados": ["Boletim de Ocorrência", "Documento Apócrifo de fls. 22/23 e 51"],
+        "Falha_profissional": "Alegada negligência da denunciada no procedimento operatório que levou ao óbito do animal.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 8, inc. VIII"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "41/2020",
+        "Denunciante": "Senhora Luciana Maria de Assis Campos",
+        "Motivacao_da_denuncia": "Atendimento veterinário da gata Mia, com diagnóstico de carcinoma de células escamosas após cirurgia",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Felinos"],
+        "Tipo_de_procedimento": ["Cirurgia", "Exame de imagem", "Atendimento clínico"],
+        "Documentos_elaborados": ["Laudo histopatológico"],
+        "Falha_profissional": ["Falta de estadiamento clínico, exames complementares e acompanhamento adequado de caso oncológico"],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6º, I", "Art. 9º, I, a, b, c"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "40/2020",
+        "Denunciante": "Senhora Luciana Maria de Assis Campos",
+        "Motivacao_da_denuncia": "Falha no tratamento de uma gata da denunciante, com possível carcinoma de células escamosas",
+        "Categoria": "Cirurgia, Oncologia",
+        "Tipo_de_animal": ["Felinos"],
+        "Tipo_de_procedimento": ["Cirurgia", "Exame de imagem", "Atendimento clínico", "Terapêutica"],
+        "Documentos_elaborados": ["Laudo histopatológico"],
+        "Falha_profissional": "Realização de cirurgia oncológica sem exames pré-operatórios e estadiamento adequados, com margens cirúrgicas insuficientes",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "40/2020",
+        "Denunciante": "Senhora Luciana Maria de Assis Campos",
+        "Motivacao_da_denuncia": "Alegação de infração ao Código de Ética do Médico Veterinário pelo denunciado, relacionada ao atendimento e procedimentos realizados em sua gata Mia",
+        "Categoria": "Cirurgia, Oncologia",
+        "Tipo_de_animal": ["Felinos"],
+        "Tipo_de_procedimento": ["Cirurgia", "Exame de imagem", "Tratamento de tártaro", "Anestesia", "Terapêutica"],
+        "Documentos_elaborados": ["Laudo histopatológico"],
+        "Falha_profissional": "Realização de cirurgia oncológica sem exames pré-operatórios adequados, falha na comunicação das margens cirúrgicas e no acompanhamento pós-operatório do animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1°", "Art. 6°, I e VI"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "39/2020",
+        "Denunciante": "Senhora Luciana Maria de Assis Campos",
+        "Motivacao_da_denuncia": "Procedimentos que podem caracterizar infração ao Código de Ética do Médico Veterinário pela ora Denunciada e falta de realização de exames complementares adequados para investigação do nódulo, atraso na indicação e realização da cirurgia, e falta de acompanhamento pós-operatório adequado.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": [
+        "Felinos"
+        ],
+        "Tipo_de_procedimento": [
+        "Cirurgia",
+        "Exame de imagem"
+        ],
+        "Documentos_elaborados": [
+        "Exame histopatológico",
+        "Radiografia de tórax",
+        "Tomografia computadorizada"
+        ],
+        "Falha_profissional": "Realização de cirurgia com margens de segurança insuficientes",
+        "Procedencia": true,
+        "Artigos_infringidos": [
+        "Art. 3",
+        "Art. 12",
+        "Art. 13"
+        ],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "26/2021",
+        "Denunciante": "Talita da Silva Santos",
+        "Motivacao_da_denuncia": "A denunciante alegou que durante a cirurgia de ovariosalpingohisterectomia (OSH) realizada pela denunciada, foi deixado um ovário remanescente na cadela Mel, o que levou a complicações pós-operatórias e a uma nova cirurgia corretiva.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração (OSH)", "Laparotomia exploratória"],
+        "Documentos_elaborados": ["Exame de ultrassonografia"],
+        "Falha_profissional": "Falha na realização completa da cirurgia de ovariosalpingohisterectomia, deixando um ovário remanescente no animal.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 4", "Art. 5", "Art. 6", "Art. 7"],
+        "Procedencia_mantida": true
+        },
+       
+        {
+        "Numero_processo_etico": "11/2020",
+        "Denunciante": "José Freire de Souza",
+        "Motivacao_da_denuncia": "Realização de cirurgia de piometra em cadela sem autorização do proprietário",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia de castração", "Laparotomia exploratória"],
+        "Documentos_elaborados": ["Ultrassonografia", "Eletrocardiograma", "Exames laboratoriais"],
+        "Falha_profissional": "Realizar cirurgia de piometra em cadela sem autorização prévia do proprietário",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 9, inciso VII"],
+        "Procedencia_mantida": true
+        },
+      
+        {
+        "Numero_processo_etico": "33/2022",
+        "Denunciante": "Jhonatan Nogueira da Silva",
+        "Motivacao_da_denuncia": "Realização de OSH (Ovariosalpingohisterectomia) em uma cadela da raça Husky Siberiano, com alegação de que após a cirurgia a cadela apresentou dor e desconforto, e o tutor posteriormente descobriu que houve ovários remanescentes após o procedimento",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["OSH (Ovariosalpingohisterectomia)", "Cirurgia corretiva para retirada de ovários remanescentes"],
+        "Documentos_elaborados": ["Termo de Autorização assinado pelo tutor"],
+        "Falha_profissional": "Realização de OSH com ovários remanescentes e posterior necessidade de nova cirurgia corretiva",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 10", "Art. 13", "Art. 15"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "06/2023",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Maus tratos a cães submetidos a castrações realizadas pelo Denunciado",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração"],
+        "Documentos_elaborados": ["Laudo técnico"],
+        "Falha_profissional": "Realização de castrações em um ônibus itinerante, sem as condições sanitárias e de bem-estar preconizadas pela Resolução no 367/2019, além de protocolo anestésico inadequado e ausência de controle dos medicamentos utilizados.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 2o, II da Resolução no 1236/2018 do CFMV"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "55/2023",
+        "Denunciante": "Sra. Sandra Soares de Sousa Fischetti",
+        "Motivacao_da_denuncia": "Denúncia contra o médico veterinário Dr. Pedro Henrique Silva Freitas por omissão no atendimento de um cão com suspeita de mordida de cobra",
+        "Categoria": "Atendimento clínico",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Emergência", "Atendimento clínico", "Oxigenoterapia"],
+        "Documentos_elaborados": ["Boletim de ocorrência"],
+        "Falha_profissional": "O médico veterinário denunciado não realizou o atendimento inicial do animal e deixou que um funcionário sem formação médica veterinária realizasse o primeiro atendimento, inclusive sem administrar o soro antiofídico necessário",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6o III", "Art. 8o II, VII, XXVIII", "Art. 9o II", "Art. 17 I"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "45/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Possíveis maus tratos e acolhimento de animais sem condições de higiene e sem responsável técnico",
+        "Categoria": "Procedimentos/Instalações",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Cirurgia", "Exames complementares"],
+        "Documentos_elaborados": ["Laudo pericial elaborado pela Médica Veterinária Mariana Santana Santos Brito", "ART (Anotação de Responsabilidade Técnica) provisória e comprovante de pagamento das taxas apresentado pela Méd. Vet. Mônica Maia Duarte"],
+        "Falha_profissional": "Ausência de registro no CRMV-MG, alvará sanitário, equipamentos de monitoração, protocolo anestésico, sala de pré e pós-operatório, descarte inadequado de materiais perfuro-cortantes, presença de medicamentos vencidos e necessidade de adequar a sala de esterilização",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 2o", "Art. 3o", "Art. 5o", "Art. 7o", "Art. 8o", "Art. 15", "Art. 16", "Art. 18"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "61/2020",
+        "Denunciante": "Matheus Vieira Alves",
+        "Motivacao_da_denuncia": "Denúncia de alegada negligência por parte da Clínica Center Pet no atendimento de sua cadela",
+        "Categoria": "Clínica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Emergência"],
+        "Documentos_elaborados": ["Encaminhamento para internação", "Resumo de internação"],
+        "Falha_profissional": "Não ter realizado tratamento adequado da dor abdominal durante a internação do animal, não ter informado adequadamente o proprietário sobre a piora do quadro clínico e a necessidade de transferência para uma clínica com melhor infraestrutura",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1o", "Art. 6o - I", "Art. 6o - X", "Art. 9o - I"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "04/2021",
+        "Denunciante": "Patrícia Helena Maia Alves de Andrade",
+        "Motivacao_da_denuncia": "A Denunciante internou seu gato em estado grave, com crise renal crônica, mas observou que o animal estava muito estressado durante a internação. Preocupada, solicitou alta mesmo sabendo que o tratamento não estava finalizado. No momento da alta, a Clínica se recusou a retirar a sonda esofágica do animal e não prestou orientações sobre medicamentos e alimentação. Além disso, a Clínica se recusou a fornecer prontamente a documentação do animal [1].",
+        "Categoria": "Atendimento clínico",
+        "Tipo_de_animal": ["Felinos"],
+        "Tipo_de_procedimento": ["Internação", "Alta sem autorização médica", "Entrega do animal com sonda esofágica", "Recusa em fornecer documentação"],
+        "Documentos_elaborados": ["Prontuário", "Exames"],
+        "Falha_profissional": "Falha no atendimento da denunciante no momento da alta do animal, incluindo a recusa em retirar a sonda esofágica, não prestar orientações sobre medicamentos e alimentação, e no atraso em fornecer a documentação do animal [1].",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "27/2021",
+        "Denunciante": "Sra. Eugênia Ferreira da Silva",
+        "Motivacao_da_denuncia": "Negligência no atendimento e internação de gata com quadro gastroentérico",
+        "Categoria": "Clínica",
+        "Tipo_de_animal": ["Felinos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Internação", "Terapêutica"],
+        "Documentos_elaborados": ["Termo de responsabilidade", "Receita médica"],
+        "Falha_profissional": "Não realização de todos os exames recomendados durante a internação, apesar da orientação da médica-veterinária",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 3°", "Art. 5°", "Art. 10"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "20/2021",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Cancelamento da habilitação do Denunciado no Programa Nacional de Controle e Erradicação da Brucelose e Tuberculose Animal - PNCEBT",
+        "Categoria": "Fiscalização do estabelecimento",
+        "Tipo_de_animal": ["Bovinos"],
+        "Tipo_de_procedimento": ["Exame de imagem", "Fiscalização do estabelecimento"],
+        "Documentos_elaborados": ["Termo de Vistoria", "Atestado com datas incorretas"],
+        "Falha_profissional": "Erros no preenchimento do atestado de realização de exames, incluindo datas incorretas e ausência de resultado de um animal, além de irregularidades constatadas no local de realização dos exames",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 8", "Art. 9", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "20/2020",
+        "Denunciante": "De ofício (quando o próprio conselho instaura o processo)",
+        "Motivacao_da_denuncia": "Possíveis infrações ao Código de Ética do Médico Veterinário",
+        "Categoria": "Clínica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Exame de imagem"],
+        "Documentos_elaborados": ["Prontuários"],
+        "Falha_profissional": "Não há evidências de falhas profissionais da Dra. Laura Carneiro Vasques no atendimento ao paciente",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+     
+        {
+        "Numero_processo_etico": "67/2020",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Exercício ilegal da Medicina Veterinária por um profissional sem registro no CRMV-MG e que não havia concluído a faculdade, realizando cirurgias de castração em uma cadela com problemas e atuando em um estabelecimento inadequado [1]",
+        "Categoria": "Cirurgia, Exercício ilegal da Medicina Veterinária",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "Exercício ilegal da Medicina Veterinária"],
+        "Documentos_elaborados": ["Nenhum documento mencionado"],
+        "Falha_profissional": "Exercer a profissão de médico veterinário sem estar habilitado (formado) e sem possuir registro no CRMV/MG, além de utilizar número de registro profissional inexistente [1]",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6º, III e XI", "Art. 8º, V, X e XIV", "Art. 14, V", "Art. 24, I"],
+        "Procedencia_mantida": false
+        },
+        
+        {
+        "Numero_processo_etico": "50/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Relato de morte de paciente durante procedimento cirúrgico de castração na Clínica Animed, com suspeita de exercício ilegal da profissão pela proprietária da clínica",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "Exercício ilegal da Medicina Veterinária"],
+        "Documentos_elaborados": ["Prontuário incompleto"],
+        "Falha_profissional": "Ausência de infraestrutura básica necessária para procedimento cirúrgico, falta de monitoramento do paciente durante o procedimento anestésico-cirúrgico, realização de procedimento por pessoa não habilitada",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1°", "Art. 3°", "Art. 26, III"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "31/2022",
+        "Denunciante": "Sra. Rosimeire Machado de Oliveira Abreu",
+        "Motivacao_da_denuncia": "Morte de cadela Mel durante procedimento de ovariosalpingohisterectomia (OSH) realizado na Clínica Bicho Mimado",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia de castração", "Ovariosalpingohisterectomia (OSH)"],
+        "Documentos_elaborados": ["Não foram mencionados"],
+        "Falha_profissional": "Falta de profissionalismo, ausência de socorro adequado ao animal, falta de higiene e estrutura inadequada da clínica, informação sobre a morte do animal por ligação telefônica sem maiores detalhes, não entrega de documentos sobre o procedimento e o animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1", "Art. 3"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "28/2018",
+        "Denunciante": "Sra. Valquíria Paula Mundim",
+        "Motivacao_da_denuncia": "Realização de procedimento (punção torácica) sem consentimento formal da tutora, resultando no óbito da cadela Nina",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Toracocentese", "Exame de imagem (Ecodopppler)"],
+        "Documentos_elaborados": ["Declaração da veterinária responsável"],
+        "Falha_profissional": "Realização de procedimento sem consentimento formal da tutora",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "17/2020",
+        "Denunciante": "Méd. Vet. Rafaella Frontzek de Souza – CRMV-MG nº 21514",
+        "Motivacao_da_denuncia": "A Denunciante informou que trabalhava na Clínica do Denunciado e que no início do mês de março de 2020 comunicou sua saída do estabelecimento, acordando que ficaria mais 15 dias. Nesse período, teve problemas de saúde e precisou se ausentar do trabalho duas vezes, comunicando a equipe antecipadamente. O Denunciado, não satisfeito com as ausências da Denunciante, enviou áudios com palavras ofensivas sobre ela em um grupo de médicos-veterinários da Clínica e posteriormente a ameaçou de ir ao seu outro local de trabalho para difamá-la.",
+        "Categoria": "Difamação",
+        "Tipo_de_animal": [],
+        "Tipo_de_procedimento": ["Atendimento clínico"],
+        "Documentos_elaborados": ["Áudios de áudio", "Prints de conversa no WhatsApp"],
+        "Falha_profissional": "O Denunciado ofendeu e ameaçou a Denunciante, faltando com o respeito a uma colega profissional.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6º - V", "Art. 8º - VIII", "Art. 10º - VI", "Art. 11º - V"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "15/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Alguns animais castrados na Clínica São Cristóvão apresentaram problemas como cio após castração, algumas até emprenharam, e complicações na ferida cirúrgica",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração (OSH)", "Laparotomia exploratória"],
+        "Documentos_elaborados": [],
+        "Falha_profissional": "Possíveis falhas nos procedimentos de castração realizados pelo Denunciado",
+        "Procedencia": false,
+        "Artigos_infringidos": ["Art. 1o", "Art. 4o", "Art. 6o - I"],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "05/2019",
+        "Denunciante": "Senhora Margarete Ferreira",
+        "Motivacao_da_denuncia": "A Denunciante levou a calopsita Flip para consulta com o Denunciado, pois o animal apresentava resfriado e dificuldade respiratória. O Denunciado aplicou uma injeção sem examinar previamente o animal, e após a aplicação o animal ficou prostrado e veio a óbito [1]",
+        "Categoria": "Atendimento clínico",
+        "Tipo_de_animal": ["Aves", "Calopsita"],
+        "Tipo_de_procedimento": ["Consulta", "Aplicação de injeção"],
+        "Documentos_elaborados": ["Prontuário do animal"],
+        "Falha_profissional": "Realização de procedimentos sem exame prévio e aplicação de medicamentos sem garantia de eficácia e segurança para o paciente [1]",
+        "Procedencia": false,
+        "Artigos_infringidos": ["Art. 1º", "Art. 4º", "Art. 6º - I", "Art. 8º - XX", "Art. 9º - I - a e b"],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "Processo Ético-Profissional nº 05/2020",
+        "Denunciante": "Eliane Maria Jabour khoury Vieira",
+        "Motivacao_da_denuncia": "A denunciante relata que o Méd. Vet. Rômulo Barbosa de Castro (denunciado) não atendeu de forma adequada o coelho Mego, que apresentava emagrecimento e dificuldade de se alimentar. Ela alega que o denunciado realizou exames radiográficos desnecessários e não cuidou do animal de forma apropriada, levando-o a óbito.",
+        "Categoria": "Atendimento clínico, Exame de imagem",
+        "Tipo_de_animal": ["Coelho"],
+        "Tipo_de_procedimento": ["Anamnese", "Radiografia", "Atendimento"],
+        "Documentos_elaborados": ["Laudo de exame radiográfico"],
+        "Falha_profissional": "Conduta inadequada no atendimento e realização de exames radiográficos desnecessários que podem ter levado ao óbito do animal",
+        "Procedencia": false,
+        "Artigos_infringidos": [], 
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "01/2022",
+        "Denunciante": "Sra. Ivanir Maria de Oliveira",
+        "Motivacao_da_denuncia": "Alegação de que a paciente Sombra, uma cadela de 9 anos e 4 meses, ficou sonolenta e com dificuldade de ficar em estação após realizar uma tomografia na Clínica Veterinária Estrada Real, sob responsabilidade da Denunciada, Méd. Vet. Roberta Rosa. Ao chegar em casa, a cadela foi atacada por outros cães da residência e ficou gravemente ferida, requerendo internação. A Denunciante alega que a Denunciada se negou a arcar com os custos da internação.",
+        "Categoria": "Anestesia, Atendimento clínico",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Tomografia", "Atendimento clínico"],
+        "Documentos_elaborados": ["Laudo da Dra. Adriana Rocha"],
+        "Falha_profissional": "Alegação de que a Denunciada não teria orientado devidamente a tutora sobre os cuidados necessários com a cadela durante a recuperação anestésica e não teria arcado com os custos da internação após o ataque dos outros cães.",
+        "Procedencia": true,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "PEP 62-2020",
+        "Denunciante": "Brunna Rudielly de Andrade Freitas",
+        "Motivacao_da_denuncia": "A Denunciante apresentou denúncia contra a Clínica de Triagem Veterinária - CTV, em razão do atendimento realizado aos seus cães Duque e Roberto [1]",
+        "Categoria": "Atendimento clínico",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Terapêutica"],
+        "Documentos_elaborados": ["Receita médica"],
+        "Falha_profissional": "Suposta atuação de estagiária como médica veterinária, sem supervisão de profissional habilitado, com diagnóstico e prescrição equivocados [1]",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "34/2020",
+        "Denunciante": "Andreia Gregório Pimentel",
+        "Motivacao_da_denuncia": "Realização de eutanásia sem autorização da tutora do animal",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Laparotomia exploratória", "Eutanásia"],
+        "Documentos_elaborados": ["Ficha Resumida"],
+        "Falha_profissional": "Realização de eutanásia sem autorização expressa da tutora do animal",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6o - X", "Art. 6o - XIII", "Art. 8o - XI", "Art. 8o - XII", "Art. 9o - I (b, VII)"],
+        "Procedencia_mantida": true,
+        "Atenuante_aplicado": true
+        },
+        
+        {
+        "Numero_processo_etico": "25/2021",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Irregularidades constatadas em fiscalização na clínica veterinária da denunciada",
+        "Categoria": "Fiscalização do estabelecimento",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Fiscalização de clínica veterinária", "Inspeção de clínica veterinária", "Estrutura inadequada", "Vistoria"],
+        "Documentos_elaborados": ["Termo de Interdição"],
+        "Falha_profissional": [
+        "Medicamentos vencidos armazenados no estabelecimento",
+        "Reutilização de seringas",
+        "Ausência de documentos como registro de limpeza, controle de pragas, laudo radiométrico, PGRSS"
+        ],
+        "Procedencia": true,
+        "Artigos_infringidos": [
+        "Art. 1°",
+        "Art. 3°",
+        "Art. 6°, IV",
+        "Art. 8°, XIX",
+        "Art. 8°, XXIII, b",
+        "Art. 9°, I, b"
+        ],
+        "Procedencia_mantida": true,
+        "Atenuante_aplicado": true
+        },
+        {
+        "Numero_processo_etico": "23/2020",
+        "Denunciante": "Adilson Messias de Alvarenga",
+        "Motivacao_da_denuncia": "Após levar sua cadela Yorkshire (Jully) para uma cirurgia de castração na clínica do denunciado, ela apresentou intensa hemorragia no local da cirurgia e foi encaminhada novamente aos cuidados do denunciado, que não soube informar o motivo do sangramento. Após o ocorrido, o denunciante perdeu a credibilidade e confiança no trabalho do denunciado.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "Laparotomia exploratória"],
+        "Documentos_elaborados": ["Laudo da médica veterinária Dra. Adriana Cândido Albertin", "Relatório de Fiscalização da clínica do denunciado"],
+        "Falha_profissional": [
+        "Não realizou exames laboratoriais pré-operatórios, demonstrando negligência",
+        "Demonstrou baixa habilidade cirúrgica e conhecimento técnico ao não conseguir retirar os ovários da cadela durante a castração",
+        "Realizou procedimento cirúrgico em espaço inadequado, com ambiente de antissepsia e paramentação distante do bloco cirúrgico, favorecendo a contaminação da ferida operatória"
+        ],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1°", "Art. 3°", "Art. 6° - I, VI, X", "Art. 8° - X"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "06/2020",
+        "Denunciante": "Sra. Danielle Pereira Bastos",
+        "Motivacao_da_denuncia": "Denúncia apresentada pela Denunciante acima nomeada, com indicação de procedimentos que podem caracterizar infrações ao Código de Ética do Médico Veterinário pelo Denunciado, de acordo com os documentos juntados nestes autos.",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração (OSH)", "Cirurgias"],
+        "Documentos_elaborados": ["Nota fiscal", "Relatório médico veterinário"],
+        "Falha_profissional": "Não entrega do prontuário médico, bem como laudos dos exames realizados",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 8º, IX", "Art. 8º, XI"],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "02/2021",
+        "Denunciante": "Méd. Vet. Eliana Xavier Goepfert – CRMV-RS 4580",
+        "Motivacao_da_denuncia": "Denúncia apresentada pela Denunciante acima nomeada, com a indicação de procedimentos que podem, em tese, caracterizar infrações ao Código de Ética do Médico Veterinário pelo ora Denunciado, de acordo com o relatado e com os documentos apresentados",
+        "Categoria": "Difamação",
+        "Tipo_de_animal": [],
+        "Tipo_de_procedimento": ["Exercício ilegal da Medicina Veterinária"],
+        "Documentos_elaborados": [],
+        "Falha_profissional": "Comentários do denunciado ofenderam, desqualificaram e desmerecerem a Homeopatia Veterinária",
+        "Procedencia": false,
+        "Artigos_infringidos": [],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "01/2021",
+        "Denunciante": "Méd. Vet. Eliana Xavier Goepfert – CRMV-RS 4580",
+        "Motivacao_da_denuncia": "Comentários do denunciado contra a homeopatia veterinária e os profissionais que a exercem",
+        "Categoria": "Difamação",
+        "Tipo_de_animal": [],
+        "Tipo_de_procedimento": [],
+        "Documentos_elaborados": [],
+        "Falha_profissional": "O denunciado fez comentários desabonadores sobre a conduta profissional de colegas que praticam a homeopatia veterinária [1][2][3]",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6º, inciso V", "Art. 8º, inciso XII", "Art. 10, inciso VI"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "60/2020",
+        "Denunciante": "Associação Mãos, Patas, Coração",
+        "Motivacao_da_denuncia": "Eutanásia realizada pelo denunciado em cadela que estava em tratamento",
+        "Categoria": "Eutanásia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Eutanásia"],
+        "Documentos_elaborados": [],
+        "Falha_profissional": "Realização de eutanásia sem critérios técnicos, justificativa ou documentação adequada",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6", "Art. 9"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "18/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Possível violação ética no exercício da medicina veterinária com base em laudo técnico do Ministério Público de MG",
+        "Categoria": "Cirurgia, Atendimento clínico, Terapêutica, Exercício ilegal da Medicina Veterinária",
+        "Tipo_de_animal": ["Caninos", "Felinos"],
+        "Tipo_de_procedimento": ["Castração", "Atendimento clínico", "Terapêutica", "Fiscalização do estabelecimento"],
+        "Documentos_elaborados": ["Laudo do Ministério Público de MG", "Alvará de Funcionamento", "Checklist da fiscalização", "Contrato de prestação de serviço com empresa de resíduos", "Plano de Gerenciamento de Resíduos", "Procedimento Operacional Padrão"],
+        "Falha_profissional": "Exercício da medicina veterinária em estabelecimento sem as devidas regularizações legais, estruturais e sanitárias",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°", "Art. 6°", "Art. 11", "Art. 12"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "07/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "A plenária 510 deste CRMV-MG, em 29/01/2019, resolveu por unanimidade, averiguar a participação da Denunciada nos fatos ocorridos no estabelecimento 'Pronto Socorro Veterinário', o qual era Responsável Técnica e onde foi atendida uma cadela em trauma torácico, por uma plantonista, a qual veio a óbito, e a plantonista foi denunciada pela tutora a este conselho. [1]",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Emergência"],
+        "Documentos_elaborados": ["autorização para internação", "prontuário", "memorial de medicação usada", "manual de cuidados com filhotes na vacinação", "autorização para utilização de hormônio", "termo de responsabilidade do tutor na alta clínica", "autorização para sedação e anestesia", "cirurgia", "transfusão sanguínea", "eutanásia", "pós conduta cirúrgica"],
+        "Falha_profissional": "A Denunciada, na época, era Responsável Técnica do estabelecimento 'Pronto Socorro Veterinário', o qual não cumpria integralmente o que determinava a Resolução CFMV Nº 1015 DE 09/11/2012, que normatizava as condições para o funcionamento de Estabelecimentos Médico-Veterinários de atendimento a animais de estimação de pequeno porte, não possuindo laboratório de análises clínicas, radiologia e ultrassonografia. Além disso, a denunciada não foi contatada pela plantonista durante o atendimento que resultou no óbito do animal. [1]",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6º - IV", "Art. 8º - XIX", "Art. 9º - III"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "06/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Procedimentos e práticas inadequadas de atendimento a vários animais pelo denunciado",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Bovinos", "Caninos"],
+        "Tipo_de_procedimento": ["Enucleação", "Mastectomia bilateral", "Cirurgias fora de clínica veterinária"],
+        "Documentos_elaborados": ["Vídeo", "Imagens"],
+        "Falha_profissional": [
+        "Realização de cirurgias fora de clínica veterinária",
+        "Uso inadequado de protocolo anestésico em cirurgia de mastectomia bilateral",
+        "Utilização de fio de algodão multifilamentoso para sutura, aumentando o risco de infecção",
+        "Exposição de pacientes e autopromocão em redes sociais"
+        ],
+        "Procedencia": true,
+        "Artigos_infringidos": [
+        "Art. 1º", "Art. 3º", "Art. 4º", "Art. 6º - III, VI, XI", "Art. 13 - VIII, XIX", "Art. 14 - I", "Art. 21", "Art. 25 - II", "Art. 33", "Art. 34"
+        ],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "51/2022",
+        "Denunciante": "Sr. Ernany César Soares",
+        "Motivacao_da_denuncia": "Denúncia contra a Méd. Vet. Mariana Francisca de Oliveira Martins por supostas infrações éticas no atendimento de um animal (cadela Cacau) e na elaboração de laudo médico com informações difamatórias contra o proprietário do canil, o denunciante",
+        "Categoria": "Clínica, Difamação",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Cirurgia", "Laudo médico"],
+        "Documentos_elaborados": ["Laudo de ultrassonografia", "Hemograma"],
+        "Falha_profissional": "A denunciada não realizou biopsia para confirmar o diagnóstico de Enteropatia Inflamatória Crônica, utilizou termos acusatórios e difamatórios contra o proprietário do canil no laudo médico sem fundamentação científica, e realizou procedimento de castração com suspeita de hermafroditismo sem exames conclusivos",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1°", "Art. 3°", "Art. 6°", "Art. 8° - inciso XXVI", "Art. 10 - inciso VI"],
+        "Procedencia_mantida": true,
+        "Atenuante_aplicado": true
+        },
+        {
+        "Numero_processo_etico": "28/2019",
+        "Denunciante": "Sra. Micheline Mirna Burgarelli Flôr",
+        "Motivacao_da_denuncia": "A denúncia foi apresentada pela tutora da gata Tchuri, alegando que a Médica-Veterinária Larissa Teixeira Pacheco não teria investigado adequadamente os diagnósticos diferenciais, ficando restrita à suspeita de raiva, o que causou transtornos para a denunciante e sua família.",
+        "Categoria": "Clínica",
+        "Tipo_de_animal": ["Felinos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Anestesia", "Terapêutica"],
+        "Documentos_elaborados": ["Prontuário clínico"],
+        "Falha_profissional": "Deixar de investigar mais amplamente os possíveis diagnósticos diferenciais, ficando restrita à suspeita de raiva.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 11", "Art. 12", "Art. 13"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "21/2018",
+        "Denunciante": "Sra. Lethiane Garcia Rocha",
+        "Motivacao_da_denuncia": "Alegação de imperícia e imprudência do médico veterinário Daniel Lourenço no atendimento e pós-operatório do gato Chico",
+        "Categoria": "Cirurgia, Terapêutica",
+        "Tipo_de_animal": ["Felinos"],
+        "Tipo_de_procedimento": ["Castração (OSH)", "Anestesia (Atropina, Xilazina, Cetamina)", "Terapêutica (Prescrição de Paracetamol)"],
+        "Documentos_elaborados": ["Laudo clínico pela Dra. Amanda Oliveira Brandini"],
+        "Falha_profissional": "Prescrição de paracetamol, contraindicado para gatos, em doses potencialmente tóxicas, bem como falhas na avaliação de risco anestésico e no controle da dor pós-operatória",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1°", "Art. 3°", "Art. 6°, inciso I", "Art. 8°, inciso XXIII, alínea b"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "37/2022",
+        "Denunciante": "Leda Maria Vieira de Melo",
+        "Motivacao_da_denuncia": "Maus-tratos durante a internação, cobrança indevida de medicamentos e exames não realizados",
+        "Categoria": "Clínica, Exames complementares, Terapêutica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Exame de imagem", "Terapêutica"],
+        "Documentos_elaborados": ["Ultrassonografia", "Exames laboratoriais", "Radiografia", "Ecografia"],
+        "Falha_profissional": "Não cuidar adequadamente do paciente durante a internação, cobrar indevidamente por medicamentos e exames não realizados",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°", "Art. 6°", "Art. 9°"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "68/2020",
+        "Denunciante": "Alexssandro dos Santos Barbosa",
+        "Motivacao_da_denuncia": "Óbito de cadela após procedimento cirúrgico de cesariana e OSH",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração (OSH)", "Cesariana"],
+        "Documentos_elaborados": ["Ficha anestésica"],
+        "Falha_profissional": "Possível complicação hemorrágica pós-operatória que teria levado ao óbito da paciente",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 7", "Art. 10", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "66/2022",
+        "Denunciante": "Sra. Adriana Flávia Barreto Batista",
+        "Motivacao_da_denuncia": "Supostos erros no atendimento veterinário do animal de estimação Cacau",
+        "Categoria": "Clínica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Exame de imagem", "Terapêutica"],
+        "Documentos_elaborados": ["Prontuário do animal", "Receituário médico"],
+        "Falha_profissional": "Divergência entre o quadro clínico do animal e os resultados dos exames laboratoriais apresentados",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 6°", "Art. 7°", "Art. 8°"],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "64/2022",
+        "Denunciante": "Sra. Adriana Flávia Barreto Batista (Cliente)",
+        "Motivacao_da_denuncia": "Divergência entre o quadro clínico do animal Cacau e os resultados dos exames laboratoriais realizados no Hospital Veterinário do Triângulo Mineiro (HVETRI)",
+        "Categoria": ["Clínica", "Exames complementares"],
+        "Tipo_de_animal": ["Canino"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Exame de imagem (hemograma e hemoparasita)"],
+        "Documentos_elaborados": ["Ficha de anamnese", "Receituário"],
+        "Falha_profissional": "Possíveis erros técnicos e analíticos nos exames realizados no HVETRI",
+        "Procedencia": true,
+        "Artigos_infringidos": "Não especificado",
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "54/2022",
+        "Denunciante": "Vânia Lúcia de Carvalho Souza",
+        "Motivacao_da_denuncia": "Recusa de atendimento a animal em situação de emergência",
+        "Categoria": "Atendimento clínico",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Emergência"],
+        "Documentos_elaborados": ["Boletim de Ocorrência"],
+        "Falha_profissional": "Recusa de atendimento a animal em situação de emergência",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 1°", "Art. 5°"],
+        "Procedencia_mantida": true
+        },
+        
+        {
+        "Numero_processo_etico": "48/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Possíveis infrações éticas cometidas durante o atendimento e procedimentos cirúrgicos realizados em uma cadela da raça poodle na Clínica Veterinária Padre Eustáquio",
+        "Categoria": "Cirurgia, Clínica, Tratamento de tártaro",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia", "Laparotomia exploratória", "Atendimento clínico"],
+        "Documentos_elaborados": ["Termo de depoimento das tutoras", "Encaminhamento", "Descritivo de gastos", "Relatório de gastos", "Relatório de exame clínico", "Ficha cirúrgica"],
+        "Falha_profissional": "Falhas no atendimento, realização de procedimentos cirúrgicos com complicações e maus-cuidados no pós-operatório",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 2º", "Art. 5º", "Art. 6º", "Art. 7º", "Art. 13"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "44/2018",
+        "Denunciante": "Drielle Lane M.P. Balbino",
+        "Motivacao_da_denuncia": "A Denunciada teria sido desrespeitosa e grosseira no atendimento realizado na Clínica 'Arca de Noé' referente a paciente cadela de nome Mexerica, impedido a denunciante de visitar a cadela, não respondido mensagens de WhatsApp, além de suspeitas quanto aos exames preliminares e negativa de acesso ao prontuário médico.",
+        "Categoria": "Clínica, Atendimento clínico",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Atendimento clínico", "Exames complementares"],
+        "Documentos_elaborados": ["Termo de depoimento da denunciante", "Mensagens de WhatsApp", "Solicitação de prontuário médico"],
+        "Falha_profissional": "Suposto desrespeito, conduta inadequada e negativa de informações durante o atendimento.",
+        "Procedencia": false,
+        "Artigos_infringidos": ["Art. 1º", "Art. 4º", "Art. 6º - I"],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "33/2018",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Maus-tratos a animais abrigados no Canil Papyrus, terceirizado pela Prefeitura Municipal de Catas Altas-MG, cujo Responsável Técnico é o Méd. Vet. Eduardo Santos Brunelli - CRMV-MG 12.670",
+        "Categoria": "Maus-tratos",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Fiscalização do estabelecimento"],
+        "Documentos_elaborados": ["Relatório Pericial"],
+        "Falha_profissional": "Omissão das condições de manejo dos animais por parte do Responsável Técnico e do gestor principal do Canil",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5", "Art. 6", "Art. 7", "Art. 11"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "PEP 31/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Realização de procedimentos inadequados em Clínica Veterinária e maus tratos a animais",
+        "Categoria": "Clínica, Maus Tratos",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": [
+        "Tratamento de leishmaniose",
+        "Fiscalização do estabelecimento"
+        ],
+        "Documentos_elaborados": ["Fichas de tratamento"],
+        "Falha_profissional": [
+        "Utilização de medicamento de uso humano (anfotericina B) para tratamento de leishmaniose",
+        "Possível condição de maus tratos a animais"
+        ],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 8° XXIII a, b, c"],
+        "Procedencia_mantida": false
+        },
+        
+        {
+        "Numero_processo_etico": "27/2022",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "O Denunciado continuou veiculando publicidades irregulares mesmo após a condenação no Processo Ético-Profissional de nº 33/2019, que foi alvo de recurso perante o CFMV [1]",
+        "Categoria": "Publicidade",
+        "Tipo_de_animal": [],
+        "Tipo_de_procedimento": ["Publicidade"],
+        "Documentos_elaborados": [],
+        "Falha_profissional": "Veiculação de publicidades irregulares com preços e formas de pagamento dos serviços profissionais [1]",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 13", "Art. 14", "Art. 15"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "22/2019",
+        "Denunciante": "Bruno Monteiro Vasconcelos",
+        "Motivacao_da_denuncia": "Alegações de falhas no atendimento e cirurgias realizados no animal Rambo, um cão da raça Rottweiler",
+        "Categoria": "Cirurgia, Clínica, Exames complementares",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Cirurgia de TPLO", "Cirurgia para sutura e debridamento", "Cirurgia para revisão", "Tratamento para leishmaniose"],
+        "Documentos_elaborados": ["Relatórios médicos", "Cultura e antibiograma"],
+        "Falha_profissional": ["Possíveis falhas no pós-operatório, complicações cirúrgicas e infecção da ferida operatória"],
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°, Art. 7°, Art. 8°, Art. 9° e Art. 11 do Código de Ética do Médico Veterinário"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "21/2019",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Óbito de equino em tentativa de salvamento durante a tragédia de Brumadinho",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Equinos"],
+        "Tipo_de_procedimento": ["Emergência", "Atendimento clínico"],
+        "Documentos_elaborados": [],
+        "Falha_profissional": "Tentativa de salvamento de equino em condições inadequadas, que pode ter ocasionado o óbito do animal",
+        "Procedencia": false,
+        "Artigos_infringidos": ["Art. 5", "Art. 6"],
+        "Procedencia_mantida": false
+        },
+        {
+        "Numero_processo_etico": "16/2021",
+        "Denunciante": "De Ofício",
+        "Motivacao_da_denuncia": "Supostas irregularidades na prescrição de medicamentos anabolizantes pelo médico veterinário",
+        "Categoria": "Terapêutica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Prescrição de medicamentos"],
+        "Documentos_elaborados": ["Receitas médicas"],
+        "Falha_profissional": "Prescrição indiscriminada de medicamentos anabolizantes (testosterona) para animais sem controle de doses e histórico clínico",
+        "Procedencia": true,
+        "Artigos_infringidos": [
+        "Art. 6, Incisos I, X, XV, XVI",
+        "Art. 8, Incisos III, XIX, XXIII"
+        ],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "12/2019",
+        "Denunciante": "Gyullia Flower Gentil De Souza",
+        "Motivacao_da_denuncia": "Cirurgia de castração e procedimento de sepultamento da terceira pálpebra realizado no animal da denunciante, a cadela Shar-Pei chamada Mel. Houve alegações de negligência no pós-operatório, medicações incorretas e procedimento desnecessário.",
+        "Categoria": "Cirurgia, Clínica, Exames complementares, Terapêutica",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração", "Sepultamento da terceira pálpebra", "Tratamento de tártaro", "Anestesia", "Terapêutica"],
+        "Documentos_elaborados": ["Receita"],
+        "Falha_profissional": "Alegações de negligência no pós-operatório, medicações incorretas e procedimento desnecessário.",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 5°, Art. 8°, Art. 10°, Art. 11°, Art. 12°"],
+        "Procedencia_mantida": true
+        },
+        {
+        "Numero_processo_etico": "09/2020",
+        "Denunciante": "Sras. Delvânia Cristina de Oliveira e Dalva Luiza de Oliveira",
+        "Motivacao_da_denuncia": "Observaram que a cadela Nina apresentou sangramento e secreção purulenta após cirurgia de OSH realizada pela Denunciada",
+        "Categoria": "Cirurgia",
+        "Tipo_de_animal": ["Caninos"],
+        "Tipo_de_procedimento": ["Castração (OSH)", "Cirurgia de mastectomia"],
+        "Documentos_elaborados": ["Exames pré-operatórios (hematológico, hepático, renal, Raio-x)"],
+        "Falha_profissional": "Presença de ovário remanescente e piometra de coto uterino após cirurgia realizada pela Denunciada",
+        "Procedencia": true,
+        "Artigos_infringidos": ["Art. 9o incisos a, b, c"],
+        "Procedencia_mantida": true
+        }
+        
 ]
