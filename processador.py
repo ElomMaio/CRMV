@@ -1,3 +1,4 @@
+# bloco 1
 import pandas as pd
 import json
 
